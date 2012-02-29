@@ -1,0 +1,1473 @@
+[INFORMATION]
+[TITLE]Real Software Engineering
+[AUTHOR]David Lay M, Licenced under Creative Commons Attribution Share Alike
+[SOURCE]http://confreaks.com/videos/550-scotlandruby2011-real-software-engineering 
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]Talk from Glenn Vanderburg in the Scottish Ruby Confecence 2011.  
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:08.04,00:00:11.17
+Buenos Días, mi nombre es Glen Vanderburg
+
+00:00:11.17,00:00:15.32
+Gracias por venir, voy a hablar sobre la Verdadera Ingeniría de Software
+
+00:00:15.33,00:00:20.65
+Me han dicho que para la grabación del video debo quedarme detrás del podio
+
+00:00:20.66,00:00:27.42
+No estoy acostumbrado a ello, así que si camino y no me pueden oir, [br]por favor avisenme y me vuelvo a la posición.
+
+00:00:32.60,00:00:35.50
+Este es un cuarto repleto de profesionales de software
+
+00:00:36.36,00:00:39.82
+así que nadie debiera estar sorprendido de escucharme decir que
+
+00:00:39.82,00:00:44.84
+la ingeniería de software no funciona
+
+00:00:46.01,00:00:47.85
+Esto es ampliamente conocido en nuestro campo
+
+00:00:47.85,00:00:53.53
+Muchos de los que fuimos educados como programadores
+
+00:00:53.53,00:00:57.20
+pasamos por un periodo en donde se nos enseñó un conjunto de prácticas
+
+00:00:57.17,00:01:00.57
+llamadas ingeniería de software
+
+00:01:00.57,00:01:02.60
+Algunos abremos aprendido de esto en nuestros trabajos
+
+00:01:02.60,00:01:06.13
+si aquel lugar le importaban ese tipo de cosas
+
+00:01:07.25,00:01:10.45
+y es ampliamente reconocido que estas prácticas
+
+00:01:10.46,00:01:12.73
+simplemente no funcionan en nuestro campo
+
+00:01:12.56,00:01:16.44
+las prácticas que llamamos "Ingeniería de Software"
+
+00:01:16.91,00:01:18.99
+aunque han cambiado con el curso del tiempo
+
+00:01:18.99,00:01:23.92
+no controlan adecuadamente el costo del proyecto
+
+00:01:23.93,00:01:26.85
+no son fiables para producir software de calidad
+
+00:01:26.85,00:01:31.69
+e incluso cuando son practicadas rigurosamente por personas[br]que han sido entrenadas en como hacerlo
+
+00:01:32.65,00:01:34.52
+no son exitosos en producir ningun tipo de software
+
+00:01:36.93,00:01:40.00
+pero debiera ser sopresivo que esto sucede
+
+00:01:41.02,00:01:45.23
+debido a que en cualquier otro campo que aspira al titulo de "Ingeniería"
+
+00:01:45.23,00:01:49.17
+el término de "Ingeniería" está reservado para cosas que funcionan
+
+00:01:50.88,00:01:59.48
+de hecho, sin considerar sub-especialidades, [br]esto es una exelente definición de "Ingeniería"
+
+00:01:59.48,00:02:06.61
+Es ese grupo de prácticas y técnicas, que han sido demostradas, a traves de experiencia, que funcionan fiablemente en el campo.
+
+00:02:07.97,00:02:12.78
+Y en el desarrollo de software tenemos esta situacion insostenible
+
+00:02:12.78,00:02:16.22
+en donde tenemos un conjunto de practicas llamadas Ingeniería de software
+
+00:02:16.22,00:02:18.60
+y cualquiera que practica desarrollo de sofware
+
+00:02:18.60,00:02:21.19
+sabe que esas prácticas no funcionan
+
+00:02:23.80,00:02:28.11
+Este estado de las cosas es tan extraño y alarmante
+
+00:02:28.12,00:02:30.98
+que ha ocasionado que muchas personas se pregunten
+
+00:02:30.98,00:02:34.53
+si la ingeniería efectivamente es una metáfora apropiada
+
+00:02:34.53,00:02:36.96
+para el desarrollo de software
+
+00:02:36.96,00:02:41.54
+alomejor, el desarrollo de sofware no es Ingeniería, alomejor[br]es incompatible con la Ingeniería
+
+00:02:41.55,00:02:49.92
+alomejor es "Oficio", o "Arte" o "Hacer Peliculas" o "Creación de Teorías" o algo como eso
+
+00:02:49.93,00:02:54.14
+y que debemos simplemente darnos por vencidos en llamar[br]al desarrollo de sofware como una "Ingeniería"
+
+00:02:54.14,00:02:56.12
+y yo creo que eso es ridiculo
+
+00:02:56.12,00:02:58.88
+pero es fácil de ver como llegamos a ello
+
+00:02:58.88,00:03:02.66
+debido a que ese tipo de reacciones
+
+00:03:02.66,00:03:11.83
+derivan de los mismos mal entendidos que, en primer lugar, llevaron al desarrollo de una vision equivocada del desarrollo de sofware
+
+00:03:11.94,00:03:15.49
+las personas que crearon el campo que hoy llamamos Ingeniería de sofware
+
+00:03:15.49,00:03:17.79
+mal entendieron dos cosas importantes
+
+00:03:18.88,00:03:21.11
+"Desarrollo de sofware" e "Ingeniería"
+
+00:03:21.11,00:03:23.81
+y el resultado es que la Ingeniería de software
+
+00:03:23.81,00:03:27.15
+es verdaderamente una caricatura de una diciplina de Ingeniería
+
+00:03:28.28,00:03:34.07
+así que en esta charla quiero darles un pequeño vistazo sobre que es lo que salío mal
+
+00:03:34.07,00:03:38.35
+de como es posible que un campo completo haya ido por el camino equivocado
+
+00:03:38.35,00:03:43.07
+y haya perseguido una visión de ingeniería que estaba equivocada desde sus raices
+
+00:03:43.07,00:03:49.73
+y luego quiero comparar la caricatura de ingeniería que vemos en nuestro campo
+
+00:03:49.73,00:03:51.92
+con lo que una real diciplina de Ingeniería es
+
+00:03:52.56,00:03:57.45
+y finalmente, hablaré como la Ingeniería de sofware se vería
+
+00:03:57.45,00:03:59.90
+si tubieramos que re-inventarla
+
+00:04:00.93,00:04:03.67
+basados en un entendimiento adecuado de lo que una Ingeniería es.
+
+00:04:06.74,00:04:13.96
+El término "Ingeniería de Sofware" empezó a utilizarce en 1968[br]en Garmish, Alemania
+
+00:04:13.96,00:04:16.05
+lamento que no se pueda apreciar bien, pero
+
+00:04:17.36,00:04:20.46
+fue en una conferencia de Ingeniería de Software
+
+00:04:21.75,00:04:25.07
+patrocinada por, aunque no lo crean,  la Organización NorAtlántica de Tratados (NATO)
+
+00:04:25.07,00:04:30.77
+para tratar lo que era persivido como la "crisis del software"
+
+00:04:30.77,00:04:34.30
+nuestra falta de capacidad para administrar proyectos de sofware de una manera apropiada
+
+00:04:34.30,00:04:36.27
+y producir resultados fiables
+
+00:04:39.80,00:04:45.21
+siendo curioso sobre la ingeniería de sofware y cual el problema era decidí unos años atrás
+
+00:04:45.21,00:04:52.74
+leer las actas de esta conferencia, y dada mi actitud sobre el campo de la ingeniería de software
+
+00:04:52.74,00:04:56.81
+esperaba encontrar que este era el lugar en donde toda la confusión inició
+
+00:04:58.69,00:05:04.18
+y fuí sorprendido y algo gratificado que no era el caso en lo absoluto,
+
+00:05:04.18,00:05:08.88
+si Uds leen las actas, hay un montón de cosas muy inteligentes ahí
+
+00:05:08.89,00:05:18.34
+los participantes venían desde la Academia, de la Industria y varias organizaciones como [br]Laboratorios Bell que estaban entre estos dos mundos
+
+00:05:20.34,00:05:22.84
+muchos de ellos eran profesionales del area
+
+00:05:24.87,00:05:31.68
+y hubo una cantidad de cosas dichas en la conferencia que no hacen mucho sentido[br]a nuestros oidos hoy
+
+00:05:31.68,00:05:37.27
+pero hubo un monton de cosas que si hacían mucho sentido, muchas cosas inteligentes dichas,
+
+00:05:37.27,00:05:49.10
+por mucho, el tono prevalente de la conferencia fue que simplemente no sabemos casi nada
+
+00:05:49.10,00:05:53.01
+acerca de sofware y como se desarrolla y como es que la Ingeniería de sofware debiera ser
+
+00:05:54.73,00:06:00.40
+hubo una gran cantidad de incertidumbre sobre que es lo que puede significar "hacer ingeniería de sofware"
+
+00:06:00.40,00:06:02.54
+y pienso que eso es muy razonable
+
+00:06:02.54,00:06:13.27
+en 1968 el desarrollo de sofware era un bebé y las técnicas, herramientas y las plataformas [br]sobre las que se trabajaba
+
+00:06:13.27,00:06:15.15
+estaban en una enorme inestabilidad
+
+00:06:15.16,00:06:17.18
+y en ese contexto la incertidumbre hace mucho sentido
+
+00:06:17.18,00:06:23.38
+al final de la conferencia, Alan Purlis habló e intentó de resumir las pocas cosas
+
+00:06:23.44,00:06:25.19
+sobre las que habían hecho consenso
+
+00:06:26.83,00:06:31.91
+y en aquel corto discurso habla sobre diseño iterativo
+
+00:06:31.91,00:06:34.11
+el vocabulario es muy distinto y no lo llamó así
+
+00:06:34.11,00:06:37.68
+pero claramente estaba hablando sobre diseño iterativo
+
+00:06:37.69,00:06:42.37
+iniciando con un sistema que era muy pequeño y hacía casi nada
+
+00:06:42.37,00:06:44.06
+pero funcionaba
+
+00:06:44.06,00:06:48.74
+y graduamlemte construllendo sobre eso y expandiendolo hacia el sistema que querías tener
+
+00:06:48.75,00:06:52.70
+y habló de guiar ese proceso mediante pruebas
+
+00:06:56.75,00:07:02.41
+no es sopresa que todos los que participaron en esta conferencia
+
+00:07:02.41,00:07:08.72
+quedaron entusiasmados sobre el potencial y quicieron continuar el trabajo
+
+00:07:08.73,00:07:14.65
+y así en 1969 hubo una segunda conferencia en Roma sobre ingeniería de software
+
+00:07:14.65,00:07:16.35
+también patrocinada por NATO
+
+00:07:17.89,00:07:22.45
+y si leyeran las actas, sería evidente que es en esta conferencia donde empezó la confusión
+
+00:07:22.45,00:07:26.12
+el tono es muy distinto
+
+00:07:26.12,00:07:27.67
+¿Que sucedió en este año?
+
+00:07:30.29,00:07:35.68
+bueno, algunos de ustedes quizás me habrán visto dar una versión inicial de esta charla en otras partes
+
+00:07:35.68,00:07:43.00
+y era en este punto en donde digo "bueno, no lo sé" y presentaría una explicación hilarante de que podría haber pasado
+
+00:07:43.00,00:07:47.79
+de como la cascada se introdujo a ser la forma estandar de hacer sofware
+
+00:07:47.79,00:07:58.34
+pero Zaine Bitter, escuchó mi charla, un Neozelandes, me envió un link
+
+00:07:58.34,00:08:02.12
+a un recurso de lo más interesante, en 1996 hubo una conferencia
+
+00:08:02.12,00:08:05.39
+sobre la historia de la ingeniería de sofware
+
+00:08:05.39,00:08:12.13
+y un caballero llamado Brian Randell, que co-editó ambos de estos reportes
+
+00:08:12.13,00:08:14.76
+bueno, apenas se puede ver,
+
+00:08:14.77,00:08:24.78
+escribió una memoria sobre ambos reportes, como estubo involucrado y su co-edición de los dos reportes de la conferencia
+
+00:08:24.78,00:08:30.97
+y como Dave Hoover ayer, en su presentación, soy un geek de citas
+
+00:08:30.97,00:08:41.01
+así que les ofreceré una cita extendida de la memoria de Brian Randell sobre la segunda conferencia NATO
+
+00:08:41.01,00:08:44.45
+"Al contrario de la primera conferencia, en donde era completamente aceptado que
+
+00:08:44.45,00:08:48.36
+el término "ingeniería de sofware" expresaba una necesidad  y no una realidad
+
+00:08:48.36,00:08:53.67
+en Roma había una pequeña tendencia a hablar del tema como si ya fuera realidad.
+
+00:08:55.09,00:08:58.37
+Y fue claro que los organizadores tenían una agenda oculta
+
+00:08:58.37,00:09:04.41
+sobre persuadir a NATO para fundar el inicio de un instituto Internacional de Ingeniería de Software"
+
+00:09:06.24,00:09:13.18
+Había sospechado sobre esto, pero fue sorprendente verlo confirmado tan definitivamente
+
+00:09:13.18,00:09:16.95
+(continúa la cita) "Sin embargo, las cosas no sucedieron deacuerdo a sus planes.
+
+00:09:16.95,00:09:20.32
+Las sesiones de discución que estaban pensadas prara proveer evidencia de soporte
+
+00:09:20.33,00:09:24.92
+sustancial a esta propuesta, estubieron repletas de excepticismo e incluso
+
+00:09:24.92,00:09:28.95
+inspiró a unos de los participantes, Tom Simpson, de IBM, a escribir una espléndida sátira corta
+
+00:09:29.18,00:09:33.83
+llamada 'Masterpirece Engineering' (Ingeniería de obra maestra)"
+
+00:09:35.15,00:09:37.53
+que, a todo esto vale la pena buscar, es facil de encontrar si buscan en goolge.
+
+00:09:39.32,00:09:42.01
+(continúa cita) "Fue poca la sorpresa para cualquier participante en la conferencia de Roma
+
+00:09:42.01,00:09:45.64
+que no se realizó ningún intento adicional para continuar las series de conferencias NATO
+
+00:09:45.64,00:09:49.96
+pero la moda de la Ingeniería de sofware fue creciendo gracias a que mucha gente
+
+00:09:49.96,00:09:56.07
+comenzó a usar este termino para describir su trabajo, a mi parecer, con muy poca justificacion." - Brian Randell
+
+00:09:59.15,00:10:00.17
+es lapidario.
+
+00:10:01.88,00:10:11.19
+Randell, por los siguientes 20 años aprox, declinó cualquier participación con el movimiento de la Ingeniería de software
+
+00:10:11.19,00:10:18.16
+y refusó participar en cualquier evento o cuerpo de trabajo que usara ese nombre.
+
+00:10:21.27,00:10:26.72
+Lo que vemos es un poco de construccion de Imperio por la Academia
+
+00:10:26.72,00:10:28.84
+si alguna vez han escuchado la cita ...
+
+00:10:29.67,00:10:33.88
+¿Cuantos han estado involucrado en Academia, o en trabajo de post-grado?
+
+00:10:34.00,00:10:35.66
+Quizás estén familiarizados con la cita
+
+00:10:35.67,00:10:41.00
+"Las políticas de Academia son la forma más dañina y viciosa  de política debido a que involucra tan poco"
+
+00:10:43.34,00:10:44.87
+pero no es tan simple
+
+00:10:44.87,00:10:51.18
+lo que realmente estamos viendo es lo que me gusta llamar "Madurez prematura"
+
+00:10:51.18,00:10:54.29
+El deseo de aparentar más maduro de lo que realmente eres ...
+
+00:10:54.29,00:10:57.68
+Cualquiera que ha sido o conoce un adolecente está familiarizado con esto
+
+00:11:00.11,00:11:11.10
+no puedes soportar verte inmaduro, así que actuas la madurez y al hacerlo imitas lo que hace la gente madura
+
+00:11:11.10,00:11:14.52
+sin realmente entenderlos o entender por que
+
+00:11:14.52,00:11:19.37
+y provablemente si notar alguna de las cosas menos obvias  que la gente madura hace
+
+00:11:21.60,00:11:26.78
+y esto caracteriza mucho de lo que sucedió con la industria de software en sus inicios
+
+00:11:26.78,00:11:30.84
+y esto resultó en la caricatura de la que comenté en un inicio.
+
+00:11:32.24,00:11:40.18
+Voy a mostrarles algunas citas que expresan el carácter de la Ingeniería
+
+00:11:40.19,00:11:47.69
+y creo que muchos de ustedes, si bien no habrán escuchado estas citas, habrán escuchado algo similar.
+
+00:11:47.69,00:11:52.38
+y resonarán con ustedes respecto a la imagen de ingeniería que representan
+
+00:11:52.38,00:11:58.66
+y contrastaré cada una con descripciones de verdaderos ingenieros
+
+00:11:58.66,00:12:00.83
+o investigadores de la historia de la ingeniería
+
+00:12:00.83,00:12:03.57
+acerca de lo que verdaderamente es la Ingeniería real
+
+00:12:03.57,00:12:08.59
+me disculpo por toser en el micrófono, he estado enfermo la mayoría de la semana.
+
+00:12:08.59,00:12:15.94
+solo hace dos años, Bruce Eckel, que es un programador muy inteligente
+
+00:12:15.94,00:12:19.26
+de hecho creo que solo fue un poco descuidado con sus palabras
+
+00:12:19.51,00:12:24.25
+pero sin embargo escribió esto en un post de su blog, así que puedo criticarlo por ello
+
+00:12:24.25,00:12:27.48
+y creo que refleja la actitud que muchos programadores tienen.
+
+00:12:27.48,00:12:33.90
+escribió: "La programación no es algun tipo de ingeniería (.. la burla es casi palpable allí)
+
+00:12:33.90,00:12:38.94
+donde todo lo que debemos hacer es colocar algo en un extremo y girar la palanca" -Bruce Eckel
+
+00:12:38.94,00:12:45.28
+¿Cuantos de aquí tienen formación en alguna Ingeniería en algún otro campo? ¿Alguien?
+
+00:12:45.28,00:12:46.78
+solo algunos
+
+00:12:46.78,00:12:51.50
+¿Hay algún tipo de Ingeniería en donde uno coloca algo por un extremo y gira la palanca?
+
+00:12:54.19,00:12:57.33
+Otro ejemplo de este tipo de mal entendimiento
+
+00:12:57.33,00:13:04.45
+es el "Proceso Racional de Diseño" que describe en un paper de 1986 por David Parnas
+
+00:13:04.45,00:13:07.86
+para ser justos, David Parness no merece toda la culpa de esto
+
+00:13:07.86,00:13:12.85
+porque lo estaba basando en algo llamado "El modelo racional de tomar desiciones"
+
+00:13:13.16,00:13:18.85
+que viene de un libro de Hermet Simon de 1969 llamado "Las ciencias de lo Artificial"
+
+00:13:20.26,00:13:24.14
+pero el proceso racional de diseño es lo que Parness describe
+
+00:13:24.14,00:13:28.61
+primero: "Establecer y documentar requerimientos"
+
+00:13:28.61,00:13:32.08
+luego: "Diseñar y documentar la estructura de modulos"
+
+00:13:32.23,00:13:35.51
+y luego: "Documentar y diseñar las interfaces de los módulos"
+
+00:13:36.53,00:13:39.32
+y luego: "Diseñar y documentar la jerarquía de usos"
+
+00:13:39.36,00:13:43.37
+luego: "Diseñar y documentar las estructuras internas de los módulos"
+
+00:13:43.37,00:13:46.51
+y finalmente: "Escribes programas"
+
+00:13:46.51,00:13:47.56
+y Mantienes
+
+00:13:53.60,00:13:59.17
+esto parece ridículo cuando es aplicado al software, pero la mayoría de nosotros si somos honestos
+
+00:13:59.17,00:14:05.81
+en algún momento tubimos en la mente de que esto es lo que un proceso de Ingeniería de sofware parecía
+
+00:14:05.81,00:14:11.25
+Diseñar, diseñar,  diseñar,  diseñar,  diseñar y finalmete construir.
+
+00:14:13.03,00:14:17.39
+Eugene Ferguson en su fabuloso libro "Engineering and the mind's eye"
+
+00:14:17.39,00:14:21.32
+presenta una imagen mucho más realista
+
+00:14:21.32,00:14:22.67
+del Ingeniero
+
+00:14:22.67,00:14:28.46
+"La conversión de una idea a un artefacto, que involucra tanto al diseñador como al constructor
+
+00:14:28.46,00:14:36.14
+es un proceso sutil y complejo que siempre va a estar más cerca del arte que de la ciencia" - Eugene S. Ferguson
+
+00:14:36.14,00:14:40.38
+Voy a criticar un poco más a David Parnas
+
+00:14:40.38,00:14:46.99
+algunos años en una charla que lo escuché dar dijo: "En Ingeniería, la gente diseña atraves de la documentación"
+
+00:14:46.99,00:14:52.57
+Y ciertamete los documentos son importantes como un registro del diseño
+
+00:14:52.58,00:14:58.66
+pero aquí la insinuación es que la documentación es una parte escencial del proceso de diseño
+
+00:15:00.24,00:15:02.33
+Llendo con Ferguson nuevamente,
+
+00:15:02.33,00:15:08.56
+"Aunque los dibujos parezcan exactos y sin fallas, su presiscion oculta muchas desiciones informales,
+
+00:15:08.57,00:15:16.24
+apreciaciones dispersas, actos de intuición y asunciones acerca de como el mundo funciona" - Eugene S. Ferguson
+
+00:15:21.21,00:15:24.69
+queda claro al ver la historia de la Ingeniería de sofware que
+
+00:15:26.00,00:15:33.92
+que mucho de ella fue modelado al observar diciplinas ingenieriles particulares
+
+00:15:33.92,00:15:39.04
+y en particular la más antigua, mejor conocida y probablemente la más diferente del desarrollo de sofware
+
+00:15:39.04,00:15:41.20
+Ingeniería estructural
+
+00:15:41.20,00:15:50.01
+y la ingeniería estructural tiene una fuerte inclinación sobre [br]lo que se conoce como el "Modelo de control para procesos definidos"
+
+00:15:50.01,00:15:57.96
+"Requiere que cada pieza del trabajo sea completamente entendida. [br]Un proceso definido puede ser iniciado
+
+00:15:58.00,00:16:01.32
+y permitir que se ejecute hasta que termine, con los mismos resultados cada vez."
+
+00:16:01.32,00:16:07.43
+Esto se ajusta a nuestra persepción de como por ejemplo, los puentes son hechos
+
+00:16:07.43,00:16:16.19
+y se ajusta muy bien a los procesos de software que aparecieron desde el [br]campo de la ingeniería de sofware
+
+00:16:16.19,00:16:23.50
+pero la noción del modelos de control de procesos, fue originada por algunos [br]investigadores, ingenieros químicos
+
+00:16:23.50,00:16:31.42
+quienes, cuando supieron que la ingeniería de software estaba fuertemente inclinada
+
+00:16:31.42,00:16:37.47
+hacia este modelo de control de procesos, se asombraron, por decir lo menos
+
+00:16:37.47,00:16:44.43
+porque la ingeniería quimica en sí, una rama madura y bien conocida de la ingeniería
+
+00:16:44.43,00:16:51.13
+es de hecho, fuertemente inclinada hacia el extremo opuesto, hacia el modelo de control de procesos empiricos
+
+00:16:51.13,00:16:57.73
+que "Provee y ejerce control mediante inspecciones frecuentes y adaptación para procesos que estan imperfectamente definidos
+
+00:16:57.77,00:17:00.82
+y generan resultados inpredecibles e irrepetibles.
+
+00:17:04.20,00:17:07.77
+esto parece mucho más apropiado para el desarrollo de software.
+
+00:17:10.10,00:17:14.75
+mensioné previamente la conferencia sobre la historia de la ingeniería de sofware de 1996
+
+00:17:14.75,00:17:21.12
+y en las actas de esa conferencia apareció este diagrama que creo describe
+
+00:17:21.12,00:17:26.09
+la percepción que mucha gente tiene en los primeros días de cualquier campo
+
+00:17:28.87,00:17:34.18
+empezamos con gente produciendo cosas y personas tratando de producirlo a un nivel
+
+00:17:34.18,00:17:37.23
+un poco más alto, introduciendo nociones de "Oficio"
+
+00:17:37.23,00:17:41.50
+y eventualmente esto se vuelve comercial, lucrativo y el dinero comienza a jugar un papel
+
+00:17:41.50,00:17:47.17
+y en ese punto se vuelve necesario introducir CIENCIA
+
+00:17:47.17,00:17:53.75
+y cuando tomamos todo aquello que aprendimos y lo mezclamos con CIENCIA
+
+00:17:53.75,00:18:00.20
+es cuando terminamos con algo maduro y respetable llamado Ingeniería Profesional
+
+00:18:00.20,00:18:06.73
+solo unas semanas atrás, Nick Morgan twitió lo siguiente:
+
+00:18:06.73,00:18:11.06
+He inventado un nuevo termino "Credibilidad Parasitaria", done ciertos campos intentan asociarse
+
+00:18:11.06,00:18:14.84
+a la ciencia para parecer más reales.
+
+00:18:14.84,00:18:24.36
+esto pasa hoy. Si les interesa esto en algo, serán familiares con SEMAT
+
+00:18:24.37,00:18:28.28
+un grupo llamado Sofware Engineering Method and Theory[br](Ingeniería, Metodos y Teoría de Software)
+
+00:18:28.28,00:18:30.49
+originado por Ivar Jacobson
+
+00:18:30.49,00:18:38.10
+y dedicado a la proposición que la ingeniería de software debe basarse en teoría científica sólida
+
+00:18:38.10,00:18:40.10
+sino, obviamente, no sirve
+
+00:18:40.10,00:18:44.46
+pero, esta nuca ha sido la perspectiva de la ingeniería
+
+00:18:44.46,00:18:53.04
+e incluso afuera de una diciplina tan joven como el desarrollo de software, esta noción es muy polémica
+
+00:18:53.04,00:18:55.13
+en el campo general de la ingeniería
+
+00:18:55.13,00:19:01.78
+Fred Brooks cuando el era un estudiante de ingeniería en los '50 en Harvard
+
+00:19:01.78,00:19:05.60
+en su libro "The Design of Design"[br](El diseño del diseño)
+
+00:19:05.60,00:19:14.42
+recuerda sus días en Harvard como un estudiante de ingeniería
+
+00:19:14.42,00:19:22.43
+en ese momento el decano de ingeniería en Harvard era John van Vleck quien es un ganador del premio Novel[br](Novel de Física 1977)
+
+00:19:22.43,00:19:26.79
+y Brooks dice: "van Vleck estaba muy preocupado de que la práctica de la ingeniería
+
+00:19:26.79,00:19:29.04
+fuera puesta sobre una base científica más firme."
+
+00:19:29.04,00:19:32.43
+Nota: van Vleck era un físico, no un ingeniero
+
+00:19:32.43,00:19:37.70
+(cita continúa) "lideró un gran cambio en la educación Americana de ingeniería, alejandose del diseño
+
+00:19:39.05,00:19:42.85
+hacia la ciencia aplicada. El péndulo se osciló demasiado lejos; la reacción se afirmó
+
+00:19:43.17,00:19:46.53
+y la enseñanza del diseño ha sido polémica desde ese momento.
+
+00:19:46.53,00:19:52.48
+esta lucha se remonta incluso más atrás,  en 1923
+
+00:19:52.48,00:19:56.83
+el ingeniero aeronáutico J. D. North en una carta hacia la Sociedad Real de Aeronáutica
+
+00:19:56.83,00:20:00.16
+se mostraba enojado y dijo: "Los aeroplanos no son diseñados por la ciencia,
+
+00:20:00.16,00:20:05.26
+sino por arte, a pesar de las pretenciones y patrañas que apuntan a lo contrario"
+
+00:20:05.26,00:20:12.99
+"Hay un gran abismo entre la investigación cientifica y el producto de la ingeniería, que tiene que ser surcado por el arte del ingeniero".
+
+00:20:15.06,00:20:20.75
+y finalmente otro ingeniero aeronáuta Walter Vincenti en su gran libro
+
+00:20:20.75,00:20:23.79
+"What Engineers Know and How They Know It"[br](Que es lo que los Ingenieros Saben y Cómo lo Saben)
+
+00:20:23.79,00:20:29.08
+indica que: "Los Ingenieros" (no solo desarrolladores de software) "frecuentemente tienen que tomar desiciones
+
+00:20:29.08,00:20:35.55
+de gran consecuencia práctica, debido a conocimiento incompleto e incierto" - Walter Vincenti
+
+00:20:38.73,00:20:43.67
+aquí va algo que he escuchado frecuentemente sobre la ingeniería de software
+
+00:20:43.67,00:20:48.73
+y sobre la manera inmadura en la que enfrentamos nuestro campo
+
+00:20:48.73,00:20:54.30
+"No sabes si es cierto hasta que tienes la matemática para probarlo".
+
+00:20:54.30,00:21:02.05
+No he podido encontrar una buena referencia en la literatura sobre la ingeniería de software que lo dice tan sucintamente
+
+00:21:02.05,00:21:05.58
+si alguien llega a saber de alguna apreciaría que me lo contara
+
+00:21:05.58,00:21:09.19
+pero sé que lo he leido y sé que me lo han dicho en varias discusiones
+
+00:21:09.19,00:21:16.14
+que los verdaderos ingenieros usan las matemáticas para probar sus afirmaciones
+
+00:21:16.14,00:21:24.89
+pero en la ingeniería aunque la matemática es usada bastante, no tiene el rol que los no-ingenieros creen que tiene
+
+00:21:24.89,00:21:33.12
+volviendo al libro de Eugene Ferguson, "Análisis estructural (de hecho, cualquier cálculo ingenieríl)
+
+00:21:33.13,00:21:39.01
+debe ser utilizado con precaución y conciencia, ya que los modelos matemáticos son siempre menos complejos
+
+00:21:39.01,00:21:42.78
+que las estructuras, procesos y máquinas reales.
+
+00:21:43.78,00:21:59.38
+y he editado su cita un poco, debido a que estaba escrita en un inglés victoriano que es dificil de comprender
+
+00:21:59.38,00:22:04.24
+en estos días, así que lo he adecuado un poco a nuestra época, pero esto es la escencia de lo que dijo:
+
+00:22:04.24,00:22:15.53
+"La ingeniería no es el arte de construir. Sino es el arte de no construir; es el arte de hacer bien con un dólar lo que cualquier torpe haría con dos.
+
+00:22:18.60,00:22:28.78
+He mensionado que las matemáticas y los formalismos, análisis formal en la ingeniería [br]no necesariamente tiene el rol que pensamos que tiene
+
+00:22:28.78,00:22:32.34
+Exploremos el rol que tiene.
+
+00:22:34.63,00:22:42.91
+Se que no fue gran cosa en su tiempo y que el Reino unido no tiene la cultura de comics en periódicos[br]que tiene USA
+
+00:22:42.91,00:22:47.79
+pero creo que la mayoría de ustedes será familiar con la tira comica "Calvin and Hobbs"
+
+00:22:47.79,00:22:55.31
+Como un padre, me he modelado en el padre de Calvin, en que cuando mis hijos
+
+00:22:55.31,00:22:59.48
+me preguntan algo sobre como funciona el mundo, me gusta inventar
+
+00:22:59.48,00:23:05.43
+respuestas cómicas y altamente improvables y decirlas con cara seria, para ver que dicen.
+
+00:23:05.43,00:23:11.04
+y una de mis tiras favoritas de "Calvin and Hobbs" tiene a Calvin preguntando:[br]"Papá, ¿Cómo saben la carga máxima de los puentes?"
+
+00:23:11.04,00:23:17.89
+y el papá felizmente dice: "bueno, conducen camiones grandes y más grandes hasta que falla"
+
+00:23:17.89,00:23:23.89
+"y luego pesan el camión más pesado que pasó y reconstrullen el puente"
+
+00:23:23.89,00:23:28.56
+Calvin piensa que esto es perfectamente razonable.
+
+00:23:28.56,00:23:32.12
+¿Por qué esto es tan gracioso?
+
+00:23:32.12,00:23:42.29
+(publico) Porque es muy irracional[br]¡Porque es muy irracional, es ridículo!
+
+00:23:42.29,00:23:46.11
+¡Nadie nunca haría eso!
+
+00:23:46.11,00:23:57.79
+¿Cuántos de ustedes han visto el video donde los ingenieros de Boing prueban las alas de un 777 hasta el punto de quiebre?
+
+00:23:57.79,00:23:59.75
+si no lo han visto, vale la pena buscarlo
+
+00:23:59.75,00:24:04.61
+a) porque los hará sentir muy seguros de subir a un 777
+
+00:24:04.61,00:24:12.29
+b) porque es simplemente un notable vistazo hacerca de como la ingeniería es hecha
+
+00:24:12.29,00:24:15.24
+colocan el avión en un hangar gigante
+
+00:24:15.24,00:24:21.16
+colocan cuerdas el en techo y las conectan con los bordes del ala
+
+00:24:21.16,00:24:26.27
+y comienzan a tirar de las cuerdas hasta que ambas alas se quiebran.
+
+00:24:27.42,00:24:39.30
+y cuando se quiebran, todos los ingenieros comienzan a sonreir, a felicitarse y a alegrarse.
+
+00:24:42.57,00:24:44.94
+mi pregunta para ustedes es ¿Por qué?
+
+00:24:46.19,00:24:47.55
+¿Alguien tiene idea?
+
+00:24:48.20,00:24:52.24
+(publico) Porque lo habían predicho
+
+00:24:52.24,00:24:55.05
+¡Porque lo habían predicho! ¡Si!
+
+00:24:55.06,00:24:58.86
+porque sucedió al momento exacto que ellos predijeron
+
+00:24:58.86,00:25:04.31
+Si las matemáticas prueban todo, ¿cual es el motivo para alegrarse?
+
+00:25:04.31,00:25:06.48
+¡Porque no estaban seguros!
+
+00:25:06.48,00:25:10.80
+Los modelos son siempre aproximaciones de la realidad
+
+00:25:10.80,00:25:12.30
+no son la realidad
+
+00:25:15.17,00:25:18.85
+asi que ... ¿Por qué se utilizan modelos?
+
+00:25:20.36,00:25:25.16
+Los modelos matemáticos fueron introducidos como una medida de reducción de costos.
+
+00:25:27.01,00:25:33.61
+porque para construir un puente, solo para utilizar el ejemplo más común,
+
+00:25:33.62,00:25:36.06
+y saber que es seguro
+
+00:25:37.52,00:25:42.28
+sin modelos matemáticos solo hay dos opciones:
+
+00:25:42.28,00:25:45.65
+1) El modo de Calvin and Hobbs
+
+00:25:46.57,00:25:50.00
+... de construir un prototipo de tamaño real y probar
+
+00:25:50.01,00:25:54.53
+incluso muchas veses quizás, si es que la primera vez no resulta como era esperado
+
+00:25:54.54,00:25:58.68
+o bien, hacer algo muy por encima de lo necesario
+
+00:26:00.37,00:26:03.74
+e incluso cuando se tienen modelos se debe hacer más de lo necesario
+
+00:26:03.74,00:26:11.07
+debido a que existen margenes de error en los modelos
+
+00:26:13.44,00:26:17.75
+El motivo de que los modelos matemáticos fueron intruducidos es porque cuando se trabaja con materiales fisicos
+
+00:26:17.75,00:26:23.49
+especialmente en escalas grandes, hacer prototipos y probarlos es muy costoso
+
+00:26:24.49,00:26:32.62
+asi que en vez, podemos usar las matemáticas para probar modelos (en el sentido matemático)
+
+00:26:32.62,00:26:38.95
+y ahorrarnos el esfuerzo en costos y tiempo de tener que construir la obra
+
+00:26:39.86,00:26:49.66
+e incluso cuando tenemos modelos, tanto las fallas como el construir de más suceden
+
+00:26:49.66,00:26:52.93
+un buen ejemplo es por aquí cerca en Ember
+
+00:26:54.03,00:27:03.89
+en 1879 el puente Tay, no muy lejos de aquí, colapsó en un famoso desastre
+
+00:27:03.89,00:27:10.37
+en donde la porción elevada que se ve en la imagen, colapsó en medio de una tormenta cuando cruzaba un tren
+
+00:27:10.37,00:27:13.91
+y costó 75 vidas
+
+00:27:15.86,00:27:20.75
+para cuando el desastre sucedió, había otro puente en la etapa de planificación
+
+00:27:20.75,00:27:22.48
+sobre el río Firth of Forth
+
+00:27:22.48,00:27:29.07
+y como una reacción al desastre del puente Tay
+
+00:27:29.07,00:27:35.98
+el diseño del puente Forth fue modificado para ser más seguro, pero más importante
+
+00:27:35.98,00:27:38.70
+para verse más seguro.
+
+00:27:41.62,00:27:53.30
+El puente Forth fue el primer gran puente en ménsula de metal construido
+
+00:27:53.30,00:28:00.54
+El diseño es simple, radicalmente distinto al puente Tay
+
+00:28:01.42,00:28:04.61
+y realmente por encima de lo necesario
+
+00:28:05.72,00:28:10.34
+tanto por propósitos ingenieriles, como también por propósitos de imágen
+
+00:28:10.34,00:28:12.34
+no digo que sea malo
+
+00:28:12.34,00:28:16.81
+creo que fue exactamente lo que había que hacer, me encanta este puente y creo que es muy bonito
+
+00:28:18.19,00:28:26.02
+pero esto comenzó un proceso que duró aproximadamente 30 años de tratar de enteder
+
+00:28:26.02,00:28:32.93
+la estática y la teoría física detrás de puentes en ménsula de acero como este
+
+00:28:32.93,00:28:36.95
+y poder construir modelos matemáticos más precisos
+
+00:28:36.95,00:28:43.87
+¿por qué la presición era importante? Porque reduce la necesdad de ir por encima de lo necesario.
+
+00:28:43.87,00:28:50.10
+y asi reducir los materiales a usar y los costos en general de la construcción
+
+00:28:51.52,00:28:56.25
+este es el puente Forth desde otro angulo ...
+
+00:28:56.25,00:29:04.37
+este proceso de 30 años, resultó en puentes más delgados, livianos y más adecuados a lo necesario
+
+00:29:04.37,00:29:07.83
+que fueron construidos al rededor del mundo durante este periodo, hasta que
+
+00:29:07.83,00:29:11.34
+el puente Quebec, que es bastante ligero
+
+00:29:12.68,00:29:15.80
+colapsó.
+
+00:29:17.00,00:29:20.24
+también con la pérdida de muchas vidas.
+
+00:29:20.24,00:29:24.13
+luego que el puente Quebec colapsara en 1907
+
+00:29:24.13,00:29:32.07
+los puentes en ménsula fueron vistos como inseguros, asi que comenzamos a construir puentes colgantes[br]y el ciclo se comenzó a repetir
+
+00:29:32.07,00:29:38.62
+Grandes opulentos e inmensos puentes fueron construidos y gradualmente comenzaron a hacerse ligeros y livianos hasta que
+
+00:29:38.63,00:29:43.03
+por supuesto, el puente de Tacoma Narrows, terminó la era de los puentes colgantes
+
+00:29:45.22,00:29:52.58
+En el caso del puente Tacoma Narrows la falla puede rastrearse diréctamente a un modelo matemático con errores.
+
+00:29:52.59,00:29:58.46
+que hasta el momento era mayoritariamente considerado el mejor modelo disponible para puentes colgantes
+
+00:30:01.85,00:30:09.83
+Busqué definiciones de ingeniería previas a la ingeniería de sofware y esta me gusta por un motivo
+
+00:30:09.83,00:30:13.93
+esta del instituto de ingenieros civiles de 1828
+
+00:30:13.93,00:30:21.14
+"La ingeniería es el arte de dirigir grandes cursos de poder para el uso y conveniencia del hombre"
+
+00:30:21.14,00:30:24.36
+me gusta, pero me parece un poco colonial
+
+00:30:25.56,00:30:29.86
+una más reciente de la asociación de ingenieros estructurales es:
+
+00:30:29.86,00:30:34.60
+"La ingeniería estructural es la ciencia y arte de diseñar y construir, con economía y elegancia
+
+00:30:34.61,00:30:39.64
+estructuras, para que puedan resistir de manera segura las fuerzas a las cuales puedan ser sujetas"
+
+00:30:39.64,00:30:43.49
+Me gustaría que examinaramos las tensiones de esta definición:
+
+00:30:43.49,00:30:47.90
+La ingeniería es una ciencia y un arte
+
+00:30:49.72,00:31:01.36
+involucra creatividad, caminos sin salida, exploración, descubrimiento; de la misma forma que involucra aplicar los[br]descubrimientos de la ciencia.
+
+00:31:02.42,00:31:05.54
+involucra diseñar y construir
+
+00:31:05.54,00:31:11.56
+los ingenieros no solo construllen documentos y los entregan a otra gente para que construlla
+
+00:31:11.56,00:31:17.97
+se involucran en la construcción de las cosas que diseñan y en las instalaciones de fabricación
+
+00:31:17.97,00:31:26.00
+los buenos ingenieros estructurales tienen cascos en sus oficinas porque van a terreno y hablan con los constructores
+
+00:31:26.00,00:31:31.81
+y se enteran de los nuevos problemas que se encuentran durante la construcción
+
+00:31:33.00,00:31:35.76
+... con economía y elegancia
+
+00:31:35.76,00:31:44.38
+el costo es siempre un gran tema en la ingeniería, nuestro trabajo no es solo construir algo
+
+00:31:44.38,00:31:53.55
+sino que hacerlo en la forma más económica posible balanceando economía, elegancia y robustez
+
+00:31:54.55,00:31:58.23
+otra cosa que podemos encontar mirando a diciplinas reales de la ingeniería
+
+00:31:58.23,00:32:01.61
+es que diciplinas distintas, son muy distintas
+
+00:32:01.62,00:32:08.99
+cuando se mira a la ingeniería estructural o la ingeniería eléctrica, mecánica, industrial o química
+
+00:32:08.99,00:32:16.33
+se observa que utilizan distintos materiales, emprean distintos efectos físicos y trabajan con fuerzas distintas
+
+00:32:17.46,00:32:25.29
+trabajan con distintos grados de complejidad en relación a los requerimientos, los diseños, los procesos que utilizan
+
+00:32:25.29,00:32:27.77
+y los artefactos que son el producto final
+
+00:32:28.59,00:32:33.81
+diferentes diciplinas de la ingeniería tienen distintos grados de depender en modelos formales
+
+00:32:34.75,00:32:38.64
+y si no, dependen de experimentación, prototipado y pruebas
+
+00:32:41.79,00:32:45.80
+los ingenieros estructurales no construllen muchos modelos físicos de puentes
+
+00:32:46.50,00:32:52.12
+pero los ingenieros eléctricos construllen muchos prototipos en placas de ensayo
+
+00:32:52.12,00:32:57.42
+preguntenle a su colega ingeniero aeronáutico cuánta matemática utilizarían
+
+00:32:57.42,00:33:03.22
+si construir y probar modelos fisicos reales de sus diseños fuera instantáneo y gratis
+
+00:33:04.53,00:33:09.58
+La respuesta no va a ser "Nada", pero sería mucho menos de lo que hacen ahora.
+
+00:33:10.50,00:33:16.99
+finalmente, tienen distintos grados de procesos empíricos o definidos
+
+00:33:16.99,00:33:21.33
+asi que si entendemos lo que la ingeniería realmente es y tratamos de aplicarlo a lo que nosotros
+
+00:33:21.33,00:33:27.35
+como profesionales de software sabemos sobre el campo de desarrollo de software... ¿Con que terminaríamos?
+
+00:33:27.35,00:33:32.85
+Bueno, antes que todo tomaré la definición de ingeniería de la asociación de ingenieros estructurales
+
+00:33:32.85,00:33:39.26
+y la modificaré un poco para hacer mi propia visión de la ingeniería de software
+
+00:33:39.26,00:33:49.79
+"Es la ciencia y el arte de diseñar y hacer con economía y elegancia, sistemas para que puedan rápidamente adaptase a las situaciones que se puedan presentar"
+
+00:33:49.79,00:33:57.48
+Esto incorpora la idea de que uno de los grandes beneficios del software es que es "soft" (maleable)
+
+00:33:57.48,00:34:02.73
+El objetivo no es resistir fuerzas, el objetivo es adaptarse al cambio
+
+00:34:02.73,00:34:09.88
+aparte de eso, creo que la definición de los ingenieros estructurales es bien buena.
+
+00:34:09.88,00:34:18.13
+sabemos que la ingeniería de software se espera sea muy distinta de las otras diciplinas, así que no debieramos
+
+00:34:18.14,00:34:26.26
+terminar con una copia de la ingeniería estructural, o una caricatura de alguna otra diciplina que comprendamos o creemos que comprendemos.
+
+00:34:27.94,00:34:40.56
+La ingeniería de software fue basada en una analogía sobre diciplinas de la ingeniería de lo físico
+
+00:34:40.75,00:34:42.86
+y esta analogía es algo así:
+
+00:34:42.86,00:34:45.67
+tienes ingenieros
+
+00:34:46.55,00:34:49.02
+se sientan con sus camisas blancas y corbatas
+
+00:34:49.02,00:34:51.69
+y producen diseños
+
+00:34:51.69,00:34:55.89
+y estos diseños son luego entregados a trabajadores
+
+00:34:55.89,00:35:00.62
+quienes usan el diseño para construir el producto final
+
+00:35:02.38,00:35:06.96
+por analogía, si queremos ver el mundo del desarrollo de software
+
+00:35:06.97,00:35:15.53
+y queremos aprender de las diciplinas de ingeniería existentes debieramos hacer el software así:
+
+00:35:15.54,00:35:18.02
+tenemos ingenieros de software
+
+00:35:18.02,00:35:20.14
+el mismo tipo, pero ahora re capacitado
+
+00:35:20.14,00:35:23.68
+que produce un diseño
+
+00:35:23.68,00:35:27.62
+que luego es entregado a trabajadores en sus cubículos
+
+00:35:28.73,00:35:32.56
+que producen el producto final
+
+00:35:34.74,00:35:40.88
+y luego que lo hemos colocado de esta forma, es dificil mirar a cualquier discusión sobre ingeniería de software
+
+00:35:40.89,00:35:45.22
+entre 1969 y a mediados de los 90
+
+00:35:45.22,00:35:51.93
+sin ver esta analogía brillando fuerte y claro en cada una de las asunciones que se hacen
+
+00:35:51.93,00:35:59.96
+pero en 1992 creo, un caballero llamado Jack Reeves
+
+00:35:59.96,00:36:04.66
+se dio cuenta que esta analogía esta completamente equivocada
+
+00:36:04.66,00:36:09.67
+y escribió un paper llamado "¿Qué es Diseño de Software?" y lo publicó en el reporte C++
+
+00:36:09.67,00:36:14.26
+que es el motivo por el cual muchos de ustedes, aunque debieran, no han escuchado de el
+
+00:36:15.41,00:36:20.70
+dijo: esta analogía está completamente equivocada, porque faltan cosas fundamentales sobre el desarrollo de software
+
+00:36:20.70,00:36:25.71
+esto es lo que harías si no supieras nada sobre desarrollo de software
+
+00:36:25.71,00:36:30.22
+pero si eres un programador, sabes como las cosas funcionan y sabes que está equivocado
+
+00:36:30.23,00:36:37.14
+y el primer problema es que nunca hemos podido lograr una forma de expresar un diseño de software
+
+00:36:37.96,00:36:46.42
+que forma económica y fiable los programadores puedan llegar y convertir en un programa funcional
+
+00:36:46.42,00:36:54.82
+y alomejor esta es parte del problema, debieramos cambiar nuestra persepción de lo que es el diseño de software
+
+00:36:55.82,00:37:11.39
+y esto que está aquí, este código fuente, no es el producto final, no es lo que el cliente nos paga por hacer
+
+00:37:12.10,00:37:21.42
+los clientes nos pagan para producir programas funcionales instalado en las máquinas, no archivos de texto en alguna carpeta
+
+00:37:21.42,00:37:27.37
+de hecho este código fuente es el diseño de nuestro software
+
+00:37:28.04,00:37:40.24
+alomejor no es todo el diseño, aun ayuda tener diagramas para la vista general del diseño, pero el detalle, las minucias de como funciona, es el código fuente
+
+00:37:40.24,00:37:45.40
+asi que, ¿Quienes serían los trabajadores? ¿a quien le correspondería esta tarea?
+
+00:37:45.40,00:37:49.33
+A los compiladores y a las implementaciones de lenguajes y a los frameworks de alto nivel
+
+00:37:49.33,00:37:57.79
+y el producto final es una solución funcional ejecutables en máquinas que usuarios pueden usar
+
+00:37:58.88,00:38:02.97
+una vez que ves esto, ¡todo cambia!
+
+00:38:03.66,00:38:07.26
+¿Cuál es la parte más costosa de la parte superior?
+
+00:38:08.96,00:38:11.64
+La construcción.
+
+00:38:11.64,00:38:14.98
+¿Cuál es la parte más económica de la fila inferior?
+
+00:38:14.98,00:38:15.98
+La construcción.
+
+00:38:18.85,00:38:31.83
+y esta economía invertida cambia todo sobre lo que debemos hacer y si algo quiere llamarse "Ingeniería de software" debe tomar en consideración
+
+00:38:31.83,00:38:39.96
+este hecho fundamental, que para nosotros, construir un prototipo de nuestro diseño es efectivamente instantáneo y gratuito.
+
+00:38:41.46,00:38:54.11
+y aún más, cuando Reeves escribió su paper, probar el prototipo era costoso (aunque nunca tanto como probar un puente)
+
+00:38:54.11,00:39:03.72
+pero desde esa epoca hemos aprendido un montón sobre reducir el costo de pruebas repetitivas de los diseños. ¿O no?
+
+00:39:03.72,00:39:18.92
+así que por mucho, la parte más costosa de NUESTRO campo es el diseño. Es tanto así que eclipsa a todo lo demás y lo hace ver insignificante.
+
+00:39:21.43,00:39:31.06
+Otra cosa que me gustaría decir, aunque somos constantemente criticados por no tener rigor matemático en nuestro campo
+
+00:39:33.02,00:39:37.13
+Ese código fuente es matemática.
+
+00:39:37.44,00:39:47.68
+Incluso si nuestros lenguajes de programación no tienen una notación  rigurosa o algun otro mecanismo formal (y eso es Ruby a si que ciertamente no)
+
+00:39:48.72,00:39:53.25
+es un lenguaje formal, con semánticas rígidas
+
+00:39:54.66,00:40:02.74
+usamos matemática todos los días, nuestra matemática trabaja para nosotros, nuestra matemática es ejecutable.
+
+00:40:03.09,00:40:09.31
+Y esto fue entendido hace tiempo, tanto como la conferencia NATO de 1968
+
+00:40:09.31,00:40:18.00
+en la conferencia Friedrich Bauer dijo: "lo necesario no es matemática clasica, solo matemática"
+
+00:40:18.00,00:40:24.71
+y Edsger Dijkstra, que era un fuerte proponente de usar pruebas matemáticas formales para el software
+
+00:40:25.67,00:40:32.08
+aun inició su discurso diciendo: "Nuestras heramientas básicas son escencialmente matemáticas"
+
+00:40:34.69,00:40:35.86
+una cosa más
+
+00:40:37.34,00:40:45.15
+En la imágen anterior, ¿Dónde está el modelo?
+
+00:40:54.59,00:40:57.32
+¿Dónde está el modelo?, ¿Dónde está nuestro modelo?
+
+00:41:04.81,00:41:09.94
+Está parcialmente en nuestras mentes, si, pero lo mismo es cierto de otras diciplinas
+
+00:41:11.09,00:41:15.50
+La expresión del modelo también está en el código fuente.
+
+00:41:17.95,00:41:30.92
+Y que tan fácil el modelo se puede ver en el código fuente, es una de las métricas con las que se puede medir el diseño en sí
+
+00:41:32.69,00:41:35.16
+¿Dónde están nuestros documentos?
+
+00:41:35.65,00:41:41.41
+Los ingenieros usan modelos, matemática y documentos. ¿Dónde está nuestro documento?
+
+00:41:41.41,00:41:43.04
+En el código fuente.
+
+00:41:44.54,00:41:51.14
+mensioné con anterioridad que Parnas dijo que los ingenieros diseñan mediante documentos.
+
+00:41:51.14,00:42:01.61
+y ha propuesto una notación matemática para los documentos llamada "expresiones matemáticas tabulares" para expresar requerimientos y diseños
+
+00:42:01.61,00:42:11.83
+y sería injusto mostrarles el siguiente ejemplo sin decirles que es un ejemplo groceramente simplificado de una expresión matemática tabular
+
+00:42:11.83,00:42:20.91
+pero sin embargo, transmite la idea,esto es un ejemplo muy simplificado de lo que sería una expresión matemática tabular de Parnes
+
+00:42:20.92,00:42:23.83
+porque el piensa que necesitamos tener documentos
+
+00:42:30.16,00:42:38.92
+Les mostraré otros documentos, que expresan el mismo requerimiento de otra forma:
+
+00:42:38.92,00:42:40.24
+este es uno
+
+00:42:50.53,00:42:50.56
+aquí hay otro
+
+00:42:53.39,00:42:54.57
+y otro
+
+00:42:56.98,00:42:58.55
+y otro
+
+00:42:58.55,00:43:01.19
+que extrañamente empieza a verse como el original de Parnes
+
+00:43:01.19,00:43:09.64
+tenemos una prueba unitaria, una especificación de RSpec, un escenario de Cucumber y un arreglo de Fitnes
+
+00:43:11.46,00:43:16.19
+¿Qué es distinto de estos documentos y los de Parnes?
+
+00:43:18.69,00:43:20.02
+Estos son ejecutables.
+
+00:43:20.03,00:43:23.17
+Pueden ejecutarse y verificarse
+
+00:43:25.29,00:43:29.58
+Son documentos, pero no son SOLO documentos
+
+00:43:31.69,00:43:37.27
+Si ejecutas cada uno, encontrarás que hay un error.
+
+00:43:51.25,00:43:58.13
+Finalmente, procesos empíricos versus procesos definidos
+
+00:43:58.14,00:44:04.57
+Este es un diagrama de las 12 o 13 prácticas originales que describió Extreme Programming
+
+00:44:04.57,00:44:12.98
+y las dependencias entre ellas que Kent Beck documenta en su libro "Extreme Programming Explained"
+
+00:44:12.98,00:44:26.27
+y hay un capítulo entero en su libro que dice "Unit testing no puede funcionar porque X, Y, Z; tiene defectos"
+
+00:44:26.27,00:44:34.36
+y sería cierto exepto  que estas otras prácticas: Integración Continua, Pertenencia colectiva, semanas de 40 horas, trabajo en pares, refactoring, etc
+
+00:44:34.36,00:44:39.60
+apoyan y soportan esto, retribullen por sus defectos como redundancia en el proceso
+
+00:44:39.60,00:44:49.36
+y yo miro el diagrama e inspirado por un comentario de Dave Thomas, miro el diagrama y digo "Si hubiera hecho un diseño de software tan acoplado"
+
+00:44:49.36,00:44:50.61
+me despedirían
+
+00:44:51.46,00:44:58.94
+osea, hay verdad en esto, pero buscaba una estructura más profunda.
+
+00:44:59.97,00:45:06.53
+resulta que muchas de estas dependencias pueden entenderse en esta forma
+
+00:45:06.66,00:45:12.19
+puedes colocar la mayoría de estas prácticas (las otras son solo estándares)
+
+00:45:12.19,00:45:22.91
+la que son realmente prácticas, las puedes alinear de acuerdo a la escala del contexto, de la desición sobre la que actúan
+
+00:45:22.91,00:45:28.78
+cuando realizas programación en pares estás principalmente actuando sobre métodos e instrucciones
+
+00:45:28.78,00:45:32.98
+y las pruebas unitarias actúan principalmente sobre metodos, clases e interfaces
+
+00:45:32.98,00:45:41.45
+y así se sube hasta "publicaciones frecuentes" para validar que produces la solución correcta al problema del cliente
+
+00:45:41.45,00:45:50.78
+Y, interesantemente, puedes asociar cada práctica en una escala de tiempo sobre el cual actuan estas prácticas.
+
+00:45:50.79,00:45:59.45
+la programación por pares funciona al nivel de segundos y aveces minutos, pruebas unitarias actuan al nivel de minutos
+
+00:46:01.25,00:46:07.59
+"Cliente in-suitu" actúa en el nivel de las horas, ya que discutes con él detalles de los requerimientos y todo eso
+
+00:46:07.59,00:46:13.88
+llegando hasta arriba con "Publicaciones frecuentes" donde se toma semanas o meses en muchos casos
+
+00:46:15.52,00:46:21.57
+Esto es prácticamente la definición del un proceso empírico para desarrollo de software
+
+00:46:22.02,00:46:35.19
+obtiene información sobre cada desición que se hace en cada etapa en la forma más rápida que es economicamente factible
+
+00:46:35.65,00:46:43.53
+es costoso obtener información sobre grandes desiciones, así que no lo hacemos tan seguido, pero aun lo hacemos lo más rápido posible
+
+00:46:46.44,00:46:48.56
+pero es muy económico obtener información sobre pequeñas desiciones así que lo hacemos cada segundo
+
+00:46:49.69,00:46:57.99
+Constantemente obteniendo información y ajustandose tal como un proceso empírico debiera
+
+00:46:59.09,00:47:06.12
+El desarrollo de software ágil ha sido acusado de ser ad-hoc, descuidado y desordenado,
+
+00:47:06.12,00:47:14.44
+pero de hecho, yo creo que es una gran representación de lo que un proceso ingenieril para software debiera ser.
+
+00:47:14.44,00:47:29.96
+estoy un poco pasado de tiempo, pero quiero mostrarles lo que me imagino seremos cuando finalmente maduremos
+
+00:47:32.65,00:47:41.16
+No necesitaremos matemática, no necesitaremos modelos, no necesitaremos documentos.
+
+00:47:41.16,00:47:45.71
+y ciertamente no necesitaremos copiar otras diciplinas que no entendemos.
+
+00:47:47.00,00:47:52.54
+sino que aprenderemos de profesionales del campo sobre lo que funciona y no funciona
+
+00:47:53.87,00:48:01.13
+nos inclinaremos hacia un modelo empirico ya que eso es lo apropiado para un campo tan complejo donde hay tanto por conocer
+
+00:48:02.64,00:48:10.51
+Continuaremos promoviendo innovación en los procesos, no creo que XP o la Agilidad sea la última palabra, creo que aun tenemos mucho que aprender
+
+00:48:11.61,00:48:17.64
+y nos aseguraremos que solo aquello que funciona, sea llamado Ingeniería.
+
+00:48:17.64,00:48:20.43
+y dejaremos de usar ese termino para cosas que no funcionan
+
+00:48:22.43,00:48:23.62
+Gracias
+
+00:48:23.62,00:48:29.22
+Subtitulos por David Lay M.
+
