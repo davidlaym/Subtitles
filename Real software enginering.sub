@@ -1,4 +1,4 @@
-[INFORMATION]
+Ôªø[INFORMATION]
 [TITLE]Real Software Engineering
 [AUTHOR]David Lay M, Licenced under Creative Commons Attribution Share Alike
 [SOURCE]http://confreaks.com/videos/550-scotlandruby2011-real-software-engineering 
@@ -11,25 +11,25 @@
 [SUBTITLE]
 [COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
 00:00:08.04,00:00:11.17
-Buenos DÌas, mi nombre es Glen Vanderburg
+Buenos D√≠as, mi nombre es Glen Vanderburg
 
 00:00:11.17,00:00:15.32
-Gracias por venir, voy a hablar sobre la Verdadera IngenirÌa de Software
+Gracias por venir, voy a hablar sobre la Verdadera Ingenier√≠a de Software
 
 00:00:15.33,00:00:20.65
-Me han dicho que para la grabaciÛn del video debo quedarme detr·s del podio
+Me han dicho que para la grabaci√≥n del v√≠deo debo quedarme detr√°s del podio
 
 00:00:20.66,00:00:27.42
-No estoy acostumbrado a ello, asÌ que si camino y no me pueden oir, [br]por favor avisenme y me vuelvo a la posiciÛn.
+No estoy acostumbrado a ello, as√≠ que si camino y no me pueden oir,[br]por favor av√≠senme y me vuelvo a la posici√≥n.
 
 00:00:32.60,00:00:35.50
 Este es un cuarto repleto de profesionales de software
 
 00:00:36.36,00:00:39.82
-asÌ que nadie debiera estar sorprendido de escucharme decir que
+as√≠ que nadie debiera estar sorprendido de escucharme decir que
 
 00:00:39.82,00:00:44.84
-la ingenierÌa de software no funciona
+la ingenier√≠a de software no funciona
 
 00:00:46.01,00:00:47.85
 Esto es ampliamente conocido en nuestro campo
@@ -38,25 +38,25 @@ Esto es ampliamente conocido en nuestro campo
 Muchos de los que fuimos educados como programadores
 
 00:00:53.53,00:00:57.20
-pasamos por un periodo en donde se nos enseÒÛ un conjunto de pr·cticas
+pasamos por un periodo en donde se nos ense√±√≥ un conjunto de pr√°cticas
 
 00:00:57.17,00:01:00.57
-llamadas ingenierÌa de software
+llamadas ingenier√≠a de software
 
 00:01:00.57,00:01:02.60
-Algunos abremos aprendido de esto en nuestros trabajos
+Algunos habremos aprendido de esto en nuestros trabajos
 
 00:01:02.60,00:01:06.13
 si aquel lugar le importaban ese tipo de cosas
 
 00:01:07.25,00:01:10.45
-y es ampliamente reconocido que estas pr·cticas
+y es ampliamente reconocido que estas pr√°cticas
 
 00:01:10.46,00:01:12.73
 simplemente no funcionan en nuestro campo
 
 00:01:12.56,00:01:16.44
-las pr·cticas que llamamos "IngenierÌa de Software"
+las pr√°cticas que llamamos "Ingenier√≠a de Software"
 
 00:01:16.91,00:01:18.99
 aunque han cambiado con el curso del tiempo
@@ -71,169 +71,169 @@ no son fiables para producir software de calidad
 e incluso cuando son practicadas rigurosamente por personas[br]que han sido entrenadas en como hacerlo
 
 00:01:32.65,00:01:34.52
-no son exitosos en producir ningun tipo de software
+no son exitosos en producir ning√∫n tipo de software
 
 00:01:36.93,00:01:40.00
-pero debiera ser sopresivo que esto sucede
+pero no debiera ser sorpresivo que esto suceda
 
 00:01:41.02,00:01:45.23
-debido a que en cualquier otro campo que aspira al titulo de "IngenierÌa"
+debido a que en cualquier otro campo que aspira al titulo de "Ingenier√≠a"
 
 00:01:45.23,00:01:49.17
-el tÈrmino de "IngenierÌa" est· reservado para cosas que funcionan
+el t√©rmino de "Ingenier√≠a" est√° reservado para cosas que funcionan
 
 00:01:50.88,00:01:59.48
-de hecho, sin considerar sub-especialidades, [br]esto es una exelente definiciÛn de "IngenierÌa"
+de hecho, sin considerar sub-especialidades,[br]esto es una excelente definici√≥n de "Ingenier√≠a"
 
 00:01:59.48,00:02:06.61
-Es ese grupo de pr·cticas y tÈcnicas, que han sido demostradas, a traves de experiencia, que funcionan fiablemente en el campo.
+Es ese grupo de pr√°cticas y t√©cnicas, que han sido demostradas, a trav√©s de experiencia, que funcionan fiablemente en el campo.
 
 00:02:07.97,00:02:12.78
-Y en el desarrollo de software tenemos esta situacion insostenible
+Y en el desarrollo de software tenemos esta situaci√≥n insostenible
 
 00:02:12.78,00:02:16.22
-en donde tenemos un conjunto de practicas llamadas IngenierÌa de software
+en donde tenemos un conjunto de practicas llamadas Ingenier√≠a de software
 
 00:02:16.22,00:02:18.60
 y cualquiera que practica desarrollo de sofware
 
 00:02:18.60,00:02:21.19
-sabe que esas pr·cticas no funcionan
+sabe que esas pr√°cticas no funcionan
 
 00:02:23.80,00:02:28.11
-Este estado de las cosas es tan extraÒo y alarmante
+Este estado de las cosas es tan extra√±o y alarmante
 
 00:02:28.12,00:02:30.98
 que ha ocasionado que muchas personas se pregunten
 
 00:02:30.98,00:02:34.53
-si la ingenierÌa efectivamente es una met·fora apropiada
+si la ingenier√≠a efectivamente es una met√°fora apropiada
 
 00:02:34.53,00:02:36.96
 para el desarrollo de software
 
 00:02:36.96,00:02:41.54
-alomejor, el desarrollo de sofware no es IngenierÌa, alomejor[br]es incompatible con la IngenierÌa
+a lo mejor, el desarrollo de software no es Ingenier√≠a, a lo mejor[br]es incompatible con la Ingenier√≠a
 
 00:02:41.55,00:02:49.92
-alomejor es "Oficio", o "Arte" o "Hacer Peliculas" o "CreaciÛn de TeorÌas" o algo como eso
+a lo mejor es "Oficio", o "Arte" o "Hacer Pel√≠culas" o "Creaci√≥n de Teor√≠as" o algo como eso
 
 00:02:49.93,00:02:54.14
-y que debemos simplemente darnos por vencidos en llamar[br]al desarrollo de sofware como una "IngenierÌa"
+y que debemos simplemente darnos por vencidos en llamar[br]al desarrollo de software como una "Ingenier√≠a"
 
 00:02:54.14,00:02:56.12
 y yo creo que eso es ridiculo
 
 00:02:56.12,00:02:58.88
-pero es f·cil de ver como llegamos a ello
+pero es f√°cil de ver como llegamos a ello
 
 00:02:58.88,00:03:02.66
 debido a que ese tipo de reacciones
 
 00:03:02.66,00:03:11.83
-derivan de los mismos mal entendidos que, en primer lugar, llevaron al desarrollo de una vision equivocada del desarrollo de sofware
+derivan de los mismos mal entendidos que, en primer lugar, llevaron al desarrollo de una visi√≥n equivocada del desarrollo de software
 
 00:03:11.94,00:03:15.49
-las personas que crearon el campo que hoy llamamos IngenierÌa de sofware
+las personas que crearon el campo que hoy llamamos Ingenier√≠a de sofware
 
 00:03:15.49,00:03:17.79
 mal entendieron dos cosas importantes
 
 00:03:18.88,00:03:21.11
-"Desarrollo de sofware" e "IngenierÌa"
+"Desarrollo de software" e "Ingenier√≠a"
 
 00:03:21.11,00:03:23.81
-y el resultado es que la IngenierÌa de software
+y el resultado es que la Ingenier√≠a de software
 
 00:03:23.81,00:03:27.15
-es verdaderamente una caricatura de una diciplina de IngenierÌa
+es verdaderamente una caricatura de una disciplina de Ingenier√≠a
 
 00:03:28.28,00:03:34.07
-asÌ que en esta charla quiero darles un pequeÒo vistazo sobre que es lo que salÌo mal
+as√≠ que en esta charla quiero darles un peque√±o vistazo sobre que es lo que sali√≥ mal
 
 00:03:34.07,00:03:38.35
 de como es posible que un campo completo haya ido por el camino equivocado
 
 00:03:38.35,00:03:43.07
-y haya perseguido una visiÛn de ingenierÌa que estaba equivocada desde sus raices
+y haya perseguido una visi√≥n de ingenier√≠a que estaba equivocada desde sus raices
 
 00:03:43.07,00:03:49.73
-y luego quiero comparar la caricatura de ingenierÌa que vemos en nuestro campo
+y luego quiero comparar la caricatura de ingenier√≠a que vemos en nuestro campo
 
 00:03:49.73,00:03:51.92
-con lo que una real diciplina de IngenierÌa es
+con lo que una real disciplina de Ingenier√≠a es
 
 00:03:52.56,00:03:57.45
-y finalmente, hablarÈ como la IngenierÌa de sofware se verÌa
+y finalmente, hablar√© como la Ingenier√≠a de software se ver√≠a
 
 00:03:57.45,00:03:59.90
-si tubieramos que re-inventarla
+si tuvi√©ramos que re-inventarla
 
 00:04:00.93,00:04:03.67
-basados en un entendimiento adecuado de lo que una IngenierÌa es.
+basados en un entendimiento adecuado de lo que una Ingenier√≠a es.
 
 00:04:06.74,00:04:13.96
-El tÈrmino "IngenierÌa de Sofware" empezÛ a utilizarce en 1968[br]en Garmish, Alemania
+El t√©rmino "Ingenier√≠a de Software" empez√≥ a utilizarse en 1968[br]en Garmish, Alemania
 
 00:04:13.96,00:04:16.05
 lamento que no se pueda apreciar bien, pero
 
 00:04:17.36,00:04:20.46
-fue en una conferencia de IngenierÌa de Software
+fue en una conferencia de Ingenier√≠a de Software
 
 00:04:21.75,00:04:25.07
-patrocinada por, aunque no lo crean,  la OrganizaciÛn NorAtl·ntica de Tratados (NATO)
+patrocinada por, aunque no lo crean,  la Organizaci√≥n Nor Atl√°ntica de Tratados (NATO)
 
 00:04:25.07,00:04:30.77
-para tratar lo que era persivido como la "crisis del software"
+para tratar lo que era percibido como la "crisis del software"
 
 00:04:30.77,00:04:34.30
-nuestra falta de capacidad para administrar proyectos de sofware de una manera apropiada
+nuestra falta de capacidad para administrar proyectos de software de una manera apropiada
 
 00:04:34.30,00:04:36.27
 y producir resultados fiables
 
 00:04:39.80,00:04:45.21
-siendo curioso sobre la ingenierÌa de sofware y cual el problema era decidÌ unos aÒos atr·s
+siendo curioso sobre la ingenier√≠a de software y cual el problema era decid√≠ unos a√±os atr√°s
 
 00:04:45.21,00:04:52.74
-leer las actas de esta conferencia, y dada mi actitud sobre el campo de la ingenierÌa de software
+leer las actas de esta conferencia, y dada mi actitud sobre el campo de la ingenier√≠a de software
 
 00:04:52.74,00:04:56.81
-esperaba encontrar que este era el lugar en donde toda la confusiÛn iniciÛ
+esperaba encontrar que este era el lugar en donde toda la confusi√≥n inici√≥
 
 00:04:58.69,00:05:04.18
-y fuÌ sorprendido y algo gratificado que no era el caso en lo absoluto,
+y fu√≠ sorprendido y algo gratificado que no era el caso en lo absoluto,
 
 00:05:04.18,00:05:08.88
-si Uds leen las actas, hay un montÛn de cosas muy inteligentes ahÌ
+si Uds. leen las actas, hay un mont√≥n de cosas muy inteligentes ah√≠
 
 00:05:08.89,00:05:18.34
-los participantes venÌan desde la Academia, de la Industria y varias organizaciones como [br]Laboratorios Bell que estaban entre estos dos mundos
+los participantes ven√≠an desde la Academia, de la Industria y varias organizaciones como[br]Laboratorios Bell que estaban entre estos dos mundos
 
 00:05:20.34,00:05:22.84
 muchos de ellos eran profesionales del area
 
 00:05:24.87,00:05:31.68
-y hubo una cantidad de cosas dichas en la conferencia que no hacen mucho sentido[br]a nuestros oidos hoy
+y hubo una cantidad de cosas dichas en la conferencia que no hacen mucho sentido[br]a nuestros o√≠dos hoy
 
 00:05:31.68,00:05:37.27
-pero hubo un monton de cosas que si hacÌan mucho sentido, muchas cosas inteligentes dichas,
+pero hubo un mont√≥n de cosas que si hac√≠an mucho sentido, muchas cosas inteligentes dichas,
 
 00:05:37.27,00:05:49.10
 por mucho, el tono prevalente de la conferencia fue que simplemente no sabemos casi nada
 
 00:05:49.10,00:05:53.01
-acerca de sofware y como se desarrolla y como es que la IngenierÌa de sofware debiera ser
+acerca de software y como se desarrolla y como es que la Ingenier√≠a de software debiera ser
 
 00:05:54.73,00:06:00.40
-hubo una gran cantidad de incertidumbre sobre que es lo que puede significar "hacer ingenierÌa de sofware"
+hubo una gran cantidad de incertidumbre sobre que es lo que puede significar "hacer ingenier√≠a de software"
 
 00:06:00.40,00:06:02.54
 y pienso que eso es muy razonable
 
 00:06:02.54,00:06:13.27
-en 1968 el desarrollo de sofware era un bebÈ y las tÈcnicas, herramientas y las plataformas [br]sobre las que se trabajaba
+en 1968 el desarrollo de software era un beb√© y las t√©cnicas, herramientas y las plataformas[br]sobre las que se trabajaba
 
 00:06:13.27,00:06:15.15
 estaban en una enorme inestabilidad
@@ -242,157 +242,157 @@ estaban en una enorme inestabilidad
 y en ese contexto la incertidumbre hace mucho sentido
 
 00:06:17.18,00:06:23.38
-al final de la conferencia, Alan Purlis hablÛ e intentÛ de resumir las pocas cosas
+al final de la conferencia, Alan Purlis habl√≥ e intent√≥ de resumir las pocas cosas
 
 00:06:23.44,00:06:25.19
-sobre las que habÌan hecho consenso
+sobre las que hab√≠an hecho consenso
 
 00:06:26.83,00:06:31.91
-y en aquel corto discurso habla sobre diseÒo iterativo
+y en aquel corto discurso habla sobre dise√±o iterativo
 
 00:06:31.91,00:06:34.11
-el vocabulario es muy distinto y no lo llamÛ asÌ
+el vocabulario es muy distinto y no lo llam√≥ as√≠
 
 00:06:34.11,00:06:37.68
-pero claramente estaba hablando sobre diseÒo iterativo
+pero claramente estaba hablando sobre dise√±o iterativo
 
 00:06:37.69,00:06:42.37
-iniciando con un sistema que era muy pequeÒo y hacÌa casi nada
+iniciando con un sistema que era muy peque√±o y hac√≠a casi nada
 
 00:06:42.37,00:06:44.06
 pero funcionaba
 
 00:06:44.06,00:06:48.74
-y graduamlemte construllendo sobre eso y expandiendolo hacia el sistema que querÌas tener
+y gradualmente construyendo sobre eso y expandi√©ndolo hacia el sistema que quer√≠as tener
 
 00:06:48.75,00:06:52.70
-y hablÛ de guiar ese proceso mediante pruebas
+y habl√≥ de guiar ese proceso mediante pruebas
 
 00:06:56.75,00:07:02.41
-no es sopresa que todos los que participaron en esta conferencia
+no es sorpresa que todos los que participaron en esta conferencia
 
 00:07:02.41,00:07:08.72
-quedaron entusiasmados sobre el potencial y quicieron continuar el trabajo
+quedaron entusiasmados sobre el potencial y quisieron continuar el trabajo
 
 00:07:08.73,00:07:14.65
-y asÌ en 1969 hubo una segunda conferencia en Roma sobre ingenierÌa de software
+y as√≠ en 1969 hubo una segunda conferencia en Roma sobre ingenier√≠a de software
 
 00:07:14.65,00:07:16.35
-tambiÈn patrocinada por NATO
+tambi√©n patrocinada por NATO
 
 00:07:17.89,00:07:22.45
-y si leyeran las actas, serÌa evidente que es en esta conferencia donde empezÛ la confusiÛn
+y si leyeran las actas, ser√≠a evidente que es en esta conferencia donde empez√≥ la confusi√≥n
 
 00:07:22.45,00:07:26.12
 el tono es muy distinto
 
 00:07:26.12,00:07:27.67
-øQue sucediÛ en este aÒo?
+¬øQue sucedi√≥ en este a√±o?
 
 00:07:30.29,00:07:35.68
-bueno, algunos de ustedes quiz·s me habr·n visto dar una versiÛn inicial de esta charla en otras partes
+bueno, algunos de ustedes quiz√°s me habr√°n visto dar una versi√≥n inicial de esta charla en otras partes
 
 00:07:35.68,00:07:43.00
-y era en este punto en donde digo "bueno, no lo sÈ" y presentarÌa una explicaciÛn hilarante de que podrÌa haber pasado
+y era en este punto en donde digo "bueno, no lo s√©" y presentar√≠a una explicaci√≥n hilarante de que podr√≠a haber pasado
 
 00:07:43.00,00:07:47.79
-de como la cascada se introdujo a ser la forma estandar de hacer sofware
+de como la cascada se introdujo a ser la forma est√°ndar de hacer software
 
 00:07:47.79,00:07:58.34
-pero Zaine Bitter, escuchÛ mi charla, un Neozelandes, me enviÛ un link
+pero Zaine Bitter, escuch√≥ mi charla, un Neozelandes, me envi√≥ un link
 
 00:07:58.34,00:08:02.12
-a un recurso de lo m·s interesante, en 1996 hubo una conferencia
+a un recurso de lo m√°s interesante, en 1996 hubo una conferencia
 
 00:08:02.12,00:08:05.39
-sobre la historia de la ingenierÌa de sofware
+sobre la historia de la ingenier√≠a de sofware
 
 00:08:05.39,00:08:12.13
-y un caballero llamado Brian Randell, que co-editÛ ambos de estos reportes
+y un caballero llamado Brian Randell, que co-edit√≥ ambos de estos reportes
 
 00:08:12.13,00:08:14.76
 bueno, apenas se puede ver,
 
 00:08:14.77,00:08:24.78
-escribiÛ una memoria sobre ambos reportes, como estubo involucrado y su co-ediciÛn de los dos reportes de la conferencia
+escribi√≥ una memoria sobre ambos reportes, como estuvo involucrado y su co-edici√≥n de los dos reportes de la conferencia
 
 00:08:24.78,00:08:30.97
-y como Dave Hoover ayer, en su presentaciÛn, soy un geek de citas
+y como Dave Hoover ayer, en su presentaci√≥n, soy un geek de citas
 
 00:08:30.97,00:08:41.01
-asÌ que les ofrecerÈ una cita extendida de la memoria de Brian Randell sobre la segunda conferencia NATO
+as√≠ que les ofrecer√© una cita extendida de la memoria de Brian Randell sobre la segunda conferencia NATO
 
 00:08:41.01,00:08:44.45
 "Al contrario de la primera conferencia, en donde era completamente aceptado que
 
 00:08:44.45,00:08:48.36
-el tÈrmino "ingenierÌa de sofware" expresaba una necesidad  y no una realidad
+el t√©rmino "ingenier√≠a de software" expresaba una necesidad  y no una realidad
 
 00:08:48.36,00:08:53.67
-en Roma habÌa una pequeÒa tendencia a hablar del tema como si ya fuera realidad.
+en Roma hab√≠a una peque√±a tendencia a hablar del tema como si ya fuera realidad.
 
 00:08:55.09,00:08:58.37
-Y fue claro que los organizadores tenÌan una agenda oculta
+Y fue claro que los organizadores ten√≠an una agenda oculta
 
 00:08:58.37,00:09:04.41
-sobre persuadir a NATO para fundar el inicio de un instituto Internacional de IngenierÌa de Software"
+sobre persuadir a NATO para fundar el inicio de un instituto Internacional de Ingenier√≠a de Software"
 
 00:09:06.24,00:09:13.18
-HabÌa sospechado sobre esto, pero fue sorprendente verlo confirmado tan definitivamente
+Hab√≠a sospechado sobre esto, pero fue sorprendente verlo confirmado tan definitivamente
 
 00:09:13.18,00:09:16.95
-(contin˙a la cita) "Sin embargo, las cosas no sucedieron deacuerdo a sus planes.
+(contin√∫a la cita) "Sin embargo, las cosas no sucedieron de acuerdo a sus planes.
 
 00:09:16.95,00:09:20.32
-Las sesiones de discuciÛn que estaban pensadas prara proveer evidencia de soporte
+Las sesiones de discusi√≥n que estaban pensadas para proveer evidencia de soporte
 
 00:09:20.33,00:09:24.92
-sustancial a esta propuesta, estubieron repletas de excepticismo e incluso
+sustancial a esta propuesta, estuvieron repletas de escepticismo e incluso
 
 00:09:24.92,00:09:28.95
-inspirÛ a unos de los participantes, Tom Simpson, de IBM, a escribir una esplÈndida s·tira corta
+inspir√≥ a unos de los participantes, Tom Simpson, de IBM, a escribir una espl√©ndida s√°tira corta
 
 00:09:29.18,00:09:33.83
-llamada 'Masterpirece Engineering' (IngenierÌa de obra maestra)"
+llamada 'Masterpirece Engineering' (Ingenier√≠a de obra maestra)"
 
 00:09:35.15,00:09:37.53
-que, a todo esto vale la pena buscar, es facil de encontrar si buscan en goolge.
+que, a todo esto vale la pena buscar, es f√°cil de encontrar si buscan en google.
 
 00:09:39.32,00:09:42.01
-(contin˙a cita) "Fue poca la sorpresa para cualquier participante en la conferencia de Roma
+(contin√∫a cita) "Fue poca la sorpresa para cualquier participante en la conferencia de Roma
 
 00:09:42.01,00:09:45.64
-que no se realizÛ ning˙n intento adicional para continuar las series de conferencias NATO
+que no se realiz√≥ ning√∫n intento adicional para continuar las series de conferencias NATO
 
 00:09:45.64,00:09:49.96
-pero la moda de la IngenierÌa de sofware fue creciendo gracias a que mucha gente
+pero la moda de la Ingenier√≠a de software fue creciendo gracias a que mucha gente
 
 00:09:49.96,00:09:56.07
-comenzÛ a usar este termino para describir su trabajo, a mi parecer, con muy poca justificacion." - Brian Randell
+comenz√≥ a usar este termino para describir su trabajo, a mi parecer, con muy poca justificaci√≥n." - Brian Randell
 
 00:09:59.15,00:10:00.17
 es lapidario.
 
 00:10:01.88,00:10:11.19
-Randell, por los siguientes 20 aÒos aprox, declinÛ cualquier participaciÛn con el movimiento de la IngenierÌa de software
+Randell, por los siguientes 20 a√±os aprox., declin√≥ cualquier participaci√≥n con el movimiento de la Ingenier√≠a de software
 
 00:10:11.19,00:10:18.16
-y refusÛ participar en cualquier evento o cuerpo de trabajo que usara ese nombre.
+y rehus√≥ participar en cualquier evento o cuerpo de trabajo que usara ese nombre.
 
 00:10:21.27,00:10:26.72
-Lo que vemos es un poco de construccion de Imperio por la Academia
+Lo que vemos es un poco de construcci√≥n de Imperio por la Academia
 
 00:10:26.72,00:10:28.84
 si alguna vez han escuchado la cita ...
 
 00:10:29.67,00:10:33.88
-øCuantos han estado involucrado en Academia, o en trabajo de post-grado?
+¬øCuantos han estado involucrado en Academia, o en trabajo de post-grado?
 
 00:10:34.00,00:10:35.66
-Quiz·s estÈn familiarizados con la cita
+Quiz√°s est√©n familiarizados con la cita
 
 00:10:35.67,00:10:41.00
-"Las polÌticas de Academia son la forma m·s daÒina y viciosa  de polÌtica debido a que involucra tan poco"
+"Las pol√≠ticas de Academia son la forma m√°s da√±ina y viciosa  de pol√≠tica debido a que involucra tan poco"
 
 00:10:43.34,00:10:44.87
 pero no es tan simple
@@ -401,106 +401,106 @@ pero no es tan simple
 lo que realmente estamos viendo es lo que me gusta llamar "Madurez prematura"
 
 00:10:51.18,00:10:54.29
-El deseo de aparentar m·s maduro de lo que realmente eres ...
+El deseo de aparentar m√°s maduro de lo que realmente eres ...
 
 00:10:54.29,00:10:57.68
-Cualquiera que ha sido o conoce un adolecente est· familiarizado con esto
+Cualquiera que ha sido o conoce un adolescente est√° familiarizado con esto
 
 00:11:00.11,00:11:11.10
-no puedes soportar verte inmaduro, asÌ que actuas la madurez y al hacerlo imitas lo que hace la gente madura
+no puedes soportar verte inmaduro, as√≠ que act√∫as la madurez y al hacerlo imitas lo que hace la gente madura
 
 00:11:11.10,00:11:14.52
 sin realmente entenderlos o entender por que
 
 00:11:14.52,00:11:19.37
-y provablemente si notar alguna de las cosas menos obvias  que la gente madura hace
+y probablemente si notar alguna de las cosas menos obvias  que la gente madura hace
 
 00:11:21.60,00:11:26.78
-y esto caracteriza mucho de lo que sucediÛ con la industria de software en sus inicios
+y esto caracteriza mucho de lo que sucedi√≥ con la industria de software en sus inicios
 
 00:11:26.78,00:11:30.84
-y esto resultÛ en la caricatura de la que comentÈ en un inicio.
+y esto result√≥ en la caricatura de la que coment√© en un inicio.
 
 00:11:32.24,00:11:40.18
-Voy a mostrarles algunas citas que expresan el car·cter de la IngenierÌa
+Voy a mostrarles algunas citas que expresan el car√°cter de la Ingenier√≠a
 
 00:11:40.19,00:11:47.69
-y creo que muchos de ustedes, si bien no habr·n escuchado estas citas, habr·n escuchado algo similar.
+y creo que muchos de ustedes, si bien no habr√°n escuchado estas citas, habr√°n escuchado algo similar.
 
 00:11:47.69,00:11:52.38
-y resonar·n con ustedes respecto a la imagen de ingenierÌa que representan
+y resonar√°n con ustedes respecto a la imagen de ingenier√≠a que representan
 
 00:11:52.38,00:11:58.66
-y contrastarÈ cada una con descripciones de verdaderos ingenieros
+y contrastar√© cada una con descripciones de verdaderos ingenieros
 
 00:11:58.66,00:12:00.83
-o investigadores de la historia de la ingenierÌa
+o investigadores de la historia de la ingenier√≠a
 
 00:12:00.83,00:12:03.57
-acerca de lo que verdaderamente es la IngenierÌa real
+acerca de lo que verdaderamente es la Ingenier√≠a real
 
 00:12:03.57,00:12:08.59
-me disculpo por toser en el micrÛfono, he estado enfermo la mayorÌa de la semana.
+me disculpo por toser en el micr√≥fono, he estado enfermo la mayor√≠a de la semana.
 
 00:12:08.59,00:12:15.94
-solo hace dos aÒos, Bruce Eckel, que es un programador muy inteligente
+solo hace dos a√±os, Bruce Eckel, que es un programador muy inteligente
 
 00:12:15.94,00:12:19.26
 de hecho creo que solo fue un poco descuidado con sus palabras
 
 00:12:19.51,00:12:24.25
-pero sin embargo escribiÛ esto en un post de su blog, asÌ que puedo criticarlo por ello
+pero sin embargo escribi√≥ esto en un post de su blog, as√≠ que puedo criticarlo por ello
 
 00:12:24.25,00:12:27.48
 y creo que refleja la actitud que muchos programadores tienen.
 
 00:12:27.48,00:12:33.90
-escribiÛ: "La programaciÛn no es algun tipo de ingenierÌa (.. la burla es casi palpable allÌ)
+escribi√≥: "La programaci√≥n no es alg√∫n tipo de ingenier√≠a (.. la burla es casi palpable all√≠)
 
 00:12:33.90,00:12:38.94
 donde todo lo que debemos hacer es colocar algo en un extremo y girar la palanca" -Bruce Eckel
 
 00:12:38.94,00:12:45.28
-øCuantos de aquÌ tienen formaciÛn en alguna IngenierÌa en alg˙n otro campo? øAlguien?
+¬øCuantos de aqu√≠ tienen formaci√≥n en alguna Ingenier√≠a en alg√∫n otro campo? ¬øAlguien?
 
 00:12:45.28,00:12:46.78
 solo algunos
 
 00:12:46.78,00:12:51.50
-øHay alg˙n tipo de IngenierÌa en donde uno coloca algo por un extremo y gira la palanca?
+¬øHay alg√∫n tipo de Ingenier√≠a en donde uno coloca algo por un extremo y gira la palanca?
 
 00:12:54.19,00:12:57.33
 Otro ejemplo de este tipo de mal entendimiento
 
 00:12:57.33,00:13:04.45
-es el "Proceso Racional de DiseÒo" que describe en un paper de 1986 por David Parnas
+es el "Proceso Racional de Dise√±o" que describe en un paper de 1986 por David Parnas
 
 00:13:04.45,00:13:07.86
 para ser justos, David Parness no merece toda la culpa de esto
 
 00:13:07.86,00:13:12.85
-porque lo estaba basando en algo llamado "El modelo racional de tomar desiciones"
+porque lo estaba basando en algo llamado "El modelo racional de tomar decisiones"
 
 00:13:13.16,00:13:18.85
 que viene de un libro de Hermet Simon de 1969 llamado "Las ciencias de lo Artificial"
 
 00:13:20.26,00:13:24.14
-pero el proceso racional de diseÒo es lo que Parness describe
+pero el proceso racional de dise√±o es lo que Parness describe
 
 00:13:24.14,00:13:28.61
 primero: "Establecer y documentar requerimientos"
 
 00:13:28.61,00:13:32.08
-luego: "DiseÒar y documentar la estructura de modulos"
+luego: "Dise√±ar y documentar la estructura de modulos"
 
 00:13:32.23,00:13:35.51
-y luego: "Documentar y diseÒar las interfaces de los mÛdulos"
+y luego: "Documentar y dise√±ar las interfaces de los m√≥dulos"
 
 00:13:36.53,00:13:39.32
-y luego: "DiseÒar y documentar la jerarquÌa de usos"
+y luego: "Dise√±ar y documentar la jerarqu√≠a de usos"
 
 00:13:39.36,00:13:43.37
-luego: "DiseÒar y documentar las estructuras internas de los mÛdulos"
+luego: "Dise√±ar y documentar las estructuras internas de los m√≥dulos"
 
 00:13:43.37,00:13:46.51
 y finalmente: "Escribes programas"
@@ -509,115 +509,115 @@ y finalmente: "Escribes programas"
 y Mantienes
 
 00:13:53.60,00:13:59.17
-esto parece ridÌculo cuando es aplicado al software, pero la mayorÌa de nosotros si somos honestos
+esto parece rid√≠culo cuando es aplicado al software, pero la mayor√≠a de nosotros si somos honestos
 
 00:13:59.17,00:14:05.81
-en alg˙n momento tubimos en la mente de que esto es lo que un proceso de IngenierÌa de sofware parecÌa
+en alg√∫n momento tuvimos en la mente de que esto es lo que un proceso de Ingenier√≠a de software parec√≠a
 
 00:14:05.81,00:14:11.25
-DiseÒar, diseÒar,  diseÒar,  diseÒar,  diseÒar y finalmete construir.
+Dise√±ar, dise√±ar,  dise√±ar,  dise√±ar,  dise√±ar y finalmente construir.
 
 00:14:13.03,00:14:17.39
 Eugene Ferguson en su fabuloso libro "Engineering and the mind's eye"
 
 00:14:17.39,00:14:21.32
-presenta una imagen mucho m·s realista
+presenta una imagen mucho m√°s realista
 
 00:14:21.32,00:14:22.67
 del Ingeniero
 
 00:14:22.67,00:14:28.46
-"La conversiÛn de una idea a un artefacto, que involucra tanto al diseÒador como al constructor
+"La conversi√≥n de una idea a un artefacto, que involucra tanto al dise√±ador como al constructor
 
 00:14:28.46,00:14:36.14
-es un proceso sutil y complejo que siempre va a estar m·s cerca del arte que de la ciencia" - Eugene S. Ferguson
+es un proceso sutil y complejo que siempre va a estar m√°s cerca del arte que de la ciencia" - Eugene S. Ferguson
 
 00:14:36.14,00:14:40.38
-Voy a criticar un poco m·s a David Parnas
+Voy a criticar un poco m√°s a David Parnas
 
 00:14:40.38,00:14:46.99
-algunos aÒos en una charla que lo escuchÈ dar dijo: "En IngenierÌa, la gente diseÒa atraves de la documentaciÛn"
+algunos a√±os en una charla que lo escuch√© dar dijo: "En Ingenier√≠a, la gente dise√±a a trav√©s de la documentaci√≥n"
 
 00:14:46.99,00:14:52.57
-Y ciertamete los documentos son importantes como un registro del diseÒo
+Y ciertamente los documentos son importantes como un registro del dise√±o
 
 00:14:52.58,00:14:58.66
-pero aquÌ la insinuaciÛn es que la documentaciÛn es una parte escencial del proceso de diseÒo
+pero aqu√≠ la insinuaci√≥n es que la documentaci√≥n es una parte esencial del proceso de dise√±o
 
 00:15:00.24,00:15:02.33
-Llendo con Ferguson nuevamente,
+Yendo con Ferguson nuevamente,
 
 00:15:02.33,00:15:08.56
-"Aunque los dibujos parezcan exactos y sin fallas, su presiscion oculta muchas desiciones informales,
+"Aunque los dibujos parezcan exactos y sin fallas, su precisi√≥n oculta muchas decisiones informales,
 
 00:15:08.57,00:15:16.24
-apreciaciones dispersas, actos de intuiciÛn y asunciones acerca de como el mundo funciona" - Eugene S. Ferguson
+apreciaciones dispersas, actos de intuici√≥n y asunciones acerca de como el mundo funciona" - Eugene S. Ferguson
 
 00:15:21.21,00:15:24.69
-queda claro al ver la historia de la IngenierÌa de sofware que
+queda claro al ver la historia de la Ingenier√≠a de software que
 
 00:15:26.00,00:15:33.92
-que mucho de ella fue modelado al observar diciplinas ingenieriles particulares
+que mucho de ella fue modelado al observar disciplinas ingenieriles particulares
 
 00:15:33.92,00:15:39.04
-y en particular la m·s antigua, mejor conocida y probablemente la m·s diferente del desarrollo de sofware
+y en particular la m√°s antigua, mejor conocida y probablemente la m√°s diferente del desarrollo de sofware
 
 00:15:39.04,00:15:41.20
-IngenierÌa estructural
+Ingenier√≠a estructural
 
 00:15:41.20,00:15:50.01
-y la ingenierÌa estructural tiene una fuerte inclinaciÛn sobre [br]lo que se conoce como el "Modelo de control para procesos definidos"
+y la ingenier√≠a estructural tiene una fuerte inclinaci√≥n sobre[br]lo que se conoce como el "Modelo de control para procesos definidos"
 
 00:15:50.01,00:15:57.96
-"Requiere que cada pieza del trabajo sea completamente entendida. [br]Un proceso definido puede ser iniciado
+"Requiere que cada pieza del trabajo sea completamente entendida.[br]Un proceso definido puede ser iniciado
 
 00:15:58.00,00:16:01.32
 y permitir que se ejecute hasta que termine, con los mismos resultados cada vez."
 
 00:16:01.32,00:16:07.43
-Esto se ajusta a nuestra persepciÛn de como por ejemplo, los puentes son hechos
+Esto se ajusta a nuestra percepci√≥n de como por ejemplo, los puentes son hechos
 
 00:16:07.43,00:16:16.19
-y se ajusta muy bien a los procesos de software que aparecieron desde el [br]campo de la ingenierÌa de sofware
+y se ajusta muy bien a los procesos de software que aparecieron desde el[br]campo de la ingenier√≠a de sofware
 
 00:16:16.19,00:16:23.50
-pero la nociÛn del modelos de control de procesos, fue originada por algunos [br]investigadores, ingenieros quÌmicos
+pero la noci√≥n del modelos de control de procesos, fue originada por algunos[br]investigadores, ingenieros qu√≠micos
 
 00:16:23.50,00:16:31.42
-quienes, cuando supieron que la ingenierÌa de software estaba fuertemente inclinada
+quienes, cuando supieron que la ingenier√≠a de software estaba fuertemente inclinada
 
 00:16:31.42,00:16:37.47
 hacia este modelo de control de procesos, se asombraron, por decir lo menos
 
 00:16:37.47,00:16:44.43
-porque la ingenierÌa quimica en sÌ, una rama madura y bien conocida de la ingenierÌa
+porque la ingenier√≠a qu√≠mica en s√≠, una rama madura y bien conocida de la ingenier√≠a
 
 00:16:44.43,00:16:51.13
 es de hecho, fuertemente inclinada hacia el extremo opuesto, hacia el modelo de control de procesos empiricos
 
 00:16:51.13,00:16:57.73
-que "Provee y ejerce control mediante inspecciones frecuentes y adaptaciÛn para procesos que estan imperfectamente definidos
+que "Provee y ejerce control mediante inspecciones frecuentes y adaptaci√≥n para procesos que est√°n imperfectamente definidos
 
 00:16:57.77,00:17:00.82
-y generan resultados inpredecibles e irrepetibles.
+y generan resultados impredecibles e irrepetibles.
 
 00:17:04.20,00:17:07.77
-esto parece mucho m·s apropiado para el desarrollo de software.
+esto parece mucho m√°s apropiado para el desarrollo de software.
 
 00:17:10.10,00:17:14.75
-mensionÈ previamente la conferencia sobre la historia de la ingenierÌa de sofware de 1996
+mencion√© previamente la conferencia sobre la historia de la ingenier√≠a de software de 1996
 
 00:17:14.75,00:17:21.12
-y en las actas de esa conferencia apareciÛ este diagrama que creo describe
+y en las actas de esa conferencia apareci√≥ este diagrama que creo describe
 
 00:17:21.12,00:17:26.09
-la percepciÛn que mucha gente tiene en los primeros dÌas de cualquier campo
+la percepci√≥n que mucha gente tiene en los primeros d√≠as de cualquier campo
 
 00:17:28.87,00:17:34.18
 empezamos con gente produciendo cosas y personas tratando de producirlo a un nivel
 
 00:17:34.18,00:17:37.23
-un poco m·s alto, introduciendo nociones de "Oficio"
+un poco m√°s alto, introduciendo nociones de "Oficio"
 
 00:17:37.23,00:17:41.50
 y eventualmente esto se vuelve comercial, lucrativo y el dinero comienza a jugar un papel
@@ -629,151 +629,151 @@ y en ese punto se vuelve necesario introducir CIENCIA
 y cuando tomamos todo aquello que aprendimos y lo mezclamos con CIENCIA
 
 00:17:53.75,00:18:00.20
-es cuando terminamos con algo maduro y respetable llamado IngenierÌa Profesional
+es cuando terminamos con algo maduro y respetable llamado Ingenier√≠a Profesional
 
 00:18:00.20,00:18:06.73
-solo unas semanas atr·s, Nick Morgan twitiÛ lo siguiente:
+solo unas semanas atr√°s, Nick Morgan twite√≥ lo siguiente:
 
 00:18:06.73,00:18:11.06
 He inventado un nuevo termino "Credibilidad Parasitaria", done ciertos campos intentan asociarse
 
 00:18:11.06,00:18:14.84
-a la ciencia para parecer m·s reales.
+a la ciencia para parecer m√°s reales.
 
 00:18:14.84,00:18:24.36
-esto pasa hoy. Si les interesa esto en algo, ser·n familiares con SEMAT
+esto pasa hoy. Si les interesa esto en algo, ser√°n familiares con SEMAT
 
 00:18:24.37,00:18:28.28
-un grupo llamado Sofware Engineering Method and Theory[br](IngenierÌa, Metodos y TeorÌa de Software)
+un grupo llamado Sofware Engineering Method and Theory[br](Ingenier√≠a, M√©todos y Teor√≠a de Software)
 
 00:18:28.28,00:18:30.49
 originado por Ivar Jacobson
 
 00:18:30.49,00:18:38.10
-y dedicado a la proposiciÛn que la ingenierÌa de software debe basarse en teorÌa cientÌfica sÛlida
+y dedicado a la proposici√≥n que la ingenier√≠a de software debe basarse en teor√≠a cient√≠fica s√≥lida
 
 00:18:38.10,00:18:40.10
 sino, obviamente, no sirve
 
 00:18:40.10,00:18:44.46
-pero, esta nuca ha sido la perspectiva de la ingenierÌa
+pero, esta nuca ha sido la perspectiva de la ingenier√≠a
 
 00:18:44.46,00:18:53.04
-e incluso afuera de una diciplina tan joven como el desarrollo de software, esta nociÛn es muy polÈmica
+e incluso afuera de una disciplina tan joven como el desarrollo de software, esta noci√≥n es muy pol√©mica
 
 00:18:53.04,00:18:55.13
-en el campo general de la ingenierÌa
+en el campo general de la ingenier√≠a
 
 00:18:55.13,00:19:01.78
-Fred Brooks cuando el era un estudiante de ingenierÌa en los '50 en Harvard
+Fred Brooks cuando el era un estudiante de ingenier√≠a en los '50 en Harvard
 
 00:19:01.78,00:19:05.60
-en su libro "The Design of Design"[br](El diseÒo del diseÒo)
+en su libro "The Design of Design"[br](El dise√±o del dise√±o)
 
 00:19:05.60,00:19:14.42
-recuerda sus dÌas en Harvard como un estudiante de ingenierÌa
+recuerda sus d√≠as en Harvard como un estudiante de ingenier√≠a
 
 00:19:14.42,00:19:22.43
-en ese momento el decano de ingenierÌa en Harvard era John van Vleck quien es un ganador del premio Novel[br](Novel de FÌsica 1977)
+en ese momento el decano de ingenier√≠a en Harvard era John van Vleck quien es un ganador del premio Novel[br](Novel de F√≠sica 1977)
 
 00:19:22.43,00:19:26.79
-y Brooks dice: "van Vleck estaba muy preocupado de que la pr·ctica de la ingenierÌa
+y Brooks dice: "van Vleck estaba muy preocupado de que la pr√°ctica de la ingenier√≠a
 
 00:19:26.79,00:19:29.04
-fuera puesta sobre una base cientÌfica m·s firme."
+fuera puesta sobre una base cient√≠fica m√°s firme."
 
 00:19:29.04,00:19:32.43
-Nota: van Vleck era un fÌsico, no un ingeniero
+Nota: van Vleck era un f√≠sico, no un ingeniero
 
 00:19:32.43,00:19:37.70
-(cita contin˙a) "liderÛ un gran cambio en la educaciÛn Americana de ingenierÌa, alejandose del diseÒo
+(cita contin√∫a) "lider√≥ un gran cambio en la educaci√≥n Americana de ingenier√≠a, alej√°ndose del dise√±o
 
 00:19:39.05,00:19:42.85
-hacia la ciencia aplicada. El pÈndulo se oscilÛ demasiado lejos; la reacciÛn se afirmÛ
+hacia la ciencia aplicada. El p√©ndulo se oscil√≥ demasiado lejos; la reacci√≥n se afirm√≥
 
 00:19:43.17,00:19:46.53
-y la enseÒanza del diseÒo ha sido polÈmica desde ese momento.
+y la ense√±anza del dise√±o ha sido pol√©mica desde ese momento.
 
 00:19:46.53,00:19:52.48
-esta lucha se remonta incluso m·s atr·s,  en 1923
+esta lucha se remonta incluso m√°s atr√°s,  en 1923
 
 00:19:52.48,00:19:56.83
-el ingeniero aeron·utico J. D. North en una carta hacia la Sociedad Real de Aeron·utica
+el ingeniero aeron√°utico J. D. North en una carta hacia la Sociedad Real de Aeron√°utica
 
 00:19:56.83,00:20:00.16
-se mostraba enojado y dijo: "Los aeroplanos no son diseÒados por la ciencia,
+se mostraba enojado y dijo: "Los aeroplanos no son dise√±ados por la ciencia,
 
 00:20:00.16,00:20:05.26
-sino por arte, a pesar de las pretenciones y patraÒas que apuntan a lo contrario"
+sino por arte, a pesar de las pretensiones y patra√±as que apuntan a lo contrario"
 
 00:20:05.26,00:20:12.99
-"Hay un gran abismo entre la investigaciÛn cientifica y el producto de la ingenierÌa, que tiene que ser surcado por el arte del ingeniero".
+"Hay un gran abismo entre la investigaci√≥n cient√≠fica y el producto de la ingenier√≠a, que tiene que ser surcado por el arte del ingeniero".
 
 00:20:15.06,00:20:20.75
-y finalmente otro ingeniero aeron·uta Walter Vincenti en su gran libro
+y finalmente otro ingeniero aeron√°utica Walter Vincenti en su gran libro
 
 00:20:20.75,00:20:23.79
-"What Engineers Know and How They Know It"[br](Que es lo que los Ingenieros Saben y CÛmo lo Saben)
+"What Engineers Know and How They Know It"[br](Que es lo que los Ingenieros Saben y C√≥mo lo Saben)
 
 00:20:23.79,00:20:29.08
 indica que: "Los Ingenieros" (no solo desarrolladores de software) "frecuentemente tienen que tomar desiciones
 
 00:20:29.08,00:20:35.55
-de gran consecuencia pr·ctica, debido a conocimiento incompleto e incierto" - Walter Vincenti
+de gran consecuencia pr√°ctica, debido a conocimiento incompleto e incierto" - Walter Vincenti
 
 00:20:38.73,00:20:43.67
-aquÌ va algo que he escuchado frecuentemente sobre la ingenierÌa de software
+aqu√≠ va algo que he escuchado frecuentemente sobre la ingenier√≠a de software
 
 00:20:43.67,00:20:48.73
 y sobre la manera inmadura en la que enfrentamos nuestro campo
 
 00:20:48.73,00:20:54.30
-"No sabes si es cierto hasta que tienes la matem·tica para probarlo".
+"No sabes si es cierto hasta que tienes la matem√°tica para probarlo".
 
 00:20:54.30,00:21:02.05
-No he podido encontrar una buena referencia en la literatura sobre la ingenierÌa de software que lo dice tan sucintamente
+No he podido encontrar una buena referencia en la literatura sobre la ingenier√≠a de software que lo dice tan sucintamente
 
 00:21:02.05,00:21:05.58
-si alguien llega a saber de alguna apreciarÌa que me lo contara
+si alguien llega a saber de alguna apreciar√≠a que me lo contara
 
 00:21:05.58,00:21:09.19
-pero sÈ que lo he leido y sÈ que me lo han dicho en varias discusiones
+pero s√© que lo he le√≠do y s√© que me lo han dicho en varias discusiones
 
 00:21:09.19,00:21:16.14
-que los verdaderos ingenieros usan las matem·ticas para probar sus afirmaciones
+que los verdaderos ingenieros usan las matem√°ticas para probar sus afirmaciones
 
 00:21:16.14,00:21:24.89
-pero en la ingenierÌa aunque la matem·tica es usada bastante, no tiene el rol que los no-ingenieros creen que tiene
+pero en la ingenier√≠a aunque la matem√°tica es usada bastante, no tiene el rol que los no-ingenieros creen que tiene
 
 00:21:24.89,00:21:33.12
-volviendo al libro de Eugene Ferguson, "An·lisis estructural (de hecho, cualquier c·lculo ingenierÌl)
+volviendo al libro de Eugene Ferguson, "An√°lisis estructural (de hecho, cualquier c√°lculo ingenieril)
 
 00:21:33.13,00:21:39.01
-debe ser utilizado con precauciÛn y conciencia, ya que los modelos matem·ticos son siempre menos complejos
+debe ser utilizado con precauci√≥n y conciencia, ya que los modelos matem√°ticos son siempre menos complejos
 
 00:21:39.01,00:21:42.78
-que las estructuras, procesos y m·quinas reales.
+que las estructuras, procesos y m√°quinas reales.
 
 00:21:43.78,00:21:59.38
-y he editado su cita un poco, debido a que estaba escrita en un inglÈs victoriano que es dificil de comprender
+y he editado su cita un poco, debido a que estaba escrita en un ingl√©s victoriano que es dif√≠cil de comprender
 
 00:21:59.38,00:22:04.24
-en estos dÌas, asÌ que lo he adecuado un poco a nuestra Època, pero esto es la escencia de lo que dijo:
+en estos d√≠as, as√≠ que lo he adecuado un poco a nuestra √©poca, pero esto es la esencia de lo que dijo:
 
 00:22:04.24,00:22:15.53
-"La ingenierÌa no es el arte de construir. Sino es el arte de no construir; es el arte de hacer bien con un dÛlar lo que cualquier torpe harÌa con dos.
+"La ingenier√≠a no es el arte de construir. Sino es el arte de no construir; es el arte de hacer bien con un d√≥lar lo que cualquier torpe har√≠a con dos.
 
 00:22:18.60,00:22:28.78
-He mensionado que las matem·ticas y los formalismos, an·lisis formal en la ingenierÌa [br]no necesariamente tiene el rol que pensamos que tiene
+He mencionado que las matem√°ticas y los formalismos, an√°lisis formal en la ingenier√≠a[br]no necesariamente tiene el rol que pensamos que tiene
 
 00:22:28.78,00:22:32.34
 Exploremos el rol que tiene.
 
 00:22:34.63,00:22:42.91
-Se que no fue gran cosa en su tiempo y que el Reino unido no tiene la cultura de comics en periÛdicos[br]que tiene USA
+Se que no fue gran cosa en su tiempo y que el Reino unido no tiene la cultura de comics en peri√≥dicos[br]que tiene USA
 
 00:22:42.91,00:22:47.79
-pero creo que la mayorÌa de ustedes ser· familiar con la tira comica "Calvin and Hobbs"
+pero creo que la mayor√≠a de ustedes ser√° familiar con la tira c√≥mica "Calvin and Hobbs"
 
 00:22:47.79,00:22:55.31
 Como un padre, me he modelado en el padre de Calvin, en que cuando mis hijos
@@ -782,43 +782,43 @@ Como un padre, me he modelado en el padre de Calvin, en que cuando mis hijos
 me preguntan algo sobre como funciona el mundo, me gusta inventar
 
 00:22:59.48,00:23:05.43
-respuestas cÛmicas y altamente improvables y decirlas con cara seria, para ver que dicen.
+respuestas c√≥micas y altamente improbables y decirlas con cara seria, para ver que dicen.
 
 00:23:05.43,00:23:11.04
-y una de mis tiras favoritas de "Calvin and Hobbs" tiene a Calvin preguntando:[br]"Pap·, øCÛmo saben la carga m·xima de los puentes?"
+y una de mis tiras favoritas de "Calvin and Hobbs" tiene a Calvin preguntando:[br]"Pap√°, ¬øC√≥mo saben la carga m√°xima de los puentes?"
 
 00:23:11.04,00:23:17.89
-y el pap· felizmente dice: "bueno, conducen camiones grandes y m·s grandes hasta que falla"
+y el pap√° felizmente dice: "bueno, conducen camiones grandes y m√°s grandes hasta que falla"
 
 00:23:17.89,00:23:23.89
-"y luego pesan el camiÛn m·s pesado que pasÛ y reconstrullen el puente"
+"y luego pesan el cami√≥n m√°s pesado que pas√≥ y reconstruyen el puente"
 
 00:23:23.89,00:23:28.56
 Calvin piensa que esto es perfectamente razonable.
 
 00:23:28.56,00:23:32.12
-øPor quÈ esto es tan gracioso?
+¬øPor qu√© esto es tan gracioso?
 
 00:23:32.12,00:23:42.29
-(publico) Porque es muy irracional[br]°Porque es muy irracional, es ridÌculo!
+(publico) Porque es muy irracional[br]¬°Porque es muy irracional, es rid√≠culo!
 
 00:23:42.29,00:23:46.11
-°Nadie nunca harÌa eso!
+¬°Nadie nunca har√≠a eso!
 
 00:23:46.11,00:23:57.79
-øCu·ntos de ustedes han visto el video donde los ingenieros de Boing prueban las alas de un 777 hasta el punto de quiebre?
+¬øCu√°ntos de ustedes han visto el v√≠deo donde los ingenieros de Boing prueban las alas de un 777 hasta el punto de quiebre?
 
 00:23:57.79,00:23:59.75
 si no lo han visto, vale la pena buscarlo
 
 00:23:59.75,00:24:04.61
-a) porque los har· sentir muy seguros de subir a un 777
+a) porque los har√° sentir muy seguros de subir a un 777
 
 00:24:04.61,00:24:12.29
-b) porque es simplemente un notable vistazo hacerca de como la ingenierÌa es hecha
+b) porque es simplemente un notable vistazo acerca de como la ingenier√≠a es hecha
 
 00:24:12.29,00:24:15.24
-colocan el aviÛn en un hangar gigante
+colocan el avi√≥n en un hangar gigante
 
 00:24:15.24,00:24:21.16
 colocan cuerdas el en techo y las conectan con los bordes del ala
@@ -827,28 +827,28 @@ colocan cuerdas el en techo y las conectan con los bordes del ala
 y comienzan a tirar de las cuerdas hasta que ambas alas se quiebran.
 
 00:24:27.42,00:24:39.30
-y cuando se quiebran, todos los ingenieros comienzan a sonreir, a felicitarse y a alegrarse.
+y cuando se quiebran, todos los ingenieros comienzan a sonre√≠r, a felicitarse y a alegrarse.
 
 00:24:42.57,00:24:44.94
-mi pregunta para ustedes es øPor quÈ?
+mi pregunta para ustedes es ¬øPor qu√©?
 
 00:24:46.19,00:24:47.55
-øAlguien tiene idea?
+¬øAlguien tiene idea?
 
 00:24:48.20,00:24:52.24
-(publico) Porque lo habÌan predicho
+(publico) Porque lo hab√≠an predicho
 
 00:24:52.24,00:24:55.05
-°Porque lo habÌan predicho! °Si!
+¬°Porque lo hab√≠an predicho! ¬°Si!
 
 00:24:55.06,00:24:58.86
-porque sucediÛ al momento exacto que ellos predijeron
+porque sucedi√≥ al momento exacto que ellos predijeron
 
 00:24:58.86,00:25:04.31
-Si las matem·ticas prueban todo, øcual es el motivo para alegrarse?
+Si las matem√°ticas prueban todo, ¬øcual es el motivo para alegrarse?
 
 00:25:04.31,00:25:06.48
-°Porque no estaban seguros!
+¬°Porque no estaban seguros!
 
 00:25:06.48,00:25:10.80
 Los modelos son siempre aproximaciones de la realidad
@@ -857,118 +857,118 @@ Los modelos son siempre aproximaciones de la realidad
 no son la realidad
 
 00:25:15.17,00:25:18.85
-asi que ... øPor quÈ se utilizan modelos?
+as√≠ que ... ¬øPor qu√© se utilizan modelos?
 
 00:25:20.36,00:25:25.16
-Los modelos matem·ticos fueron introducidos como una medida de reducciÛn de costos.
+Los modelos matem√°ticos fueron introducidos como una medida de reducci√≥n de costos.
 
 00:25:27.01,00:25:33.61
-porque para construir un puente, solo para utilizar el ejemplo m·s com˙n,
+porque para construir un puente, solo para utilizar el ejemplo m√°s com√∫n,
 
 00:25:33.62,00:25:36.06
 y saber que es seguro
 
 00:25:37.52,00:25:42.28
-sin modelos matem·ticos solo hay dos opciones:
+sin modelos matem√°ticos solo hay dos opciones:
 
 00:25:42.28,00:25:45.65
 1) El modo de Calvin and Hobbs
 
 00:25:46.57,00:25:50.00
-... de construir un prototipo de tamaÒo real y probar
+... de construir un prototipo de tama√±o real y probar
 
 00:25:50.01,00:25:54.53
-incluso muchas veses quiz·s, si es que la primera vez no resulta como era esperado
+incluso muchas veces quiz√°s, si es que la primera vez no resulta como era esperado
 
 00:25:54.54,00:25:58.68
 o bien, hacer algo muy por encima de lo necesario
 
 00:26:00.37,00:26:03.74
-e incluso cuando se tienen modelos se debe hacer m·s de lo necesario
+e incluso cuando se tienen modelos se debe hacer m√°s de lo necesario
 
 00:26:03.74,00:26:11.07
 debido a que existen margenes de error en los modelos
 
 00:26:13.44,00:26:17.75
-El motivo de que los modelos matem·ticos fueron intruducidos es porque cuando se trabaja con materiales fisicos
+El motivo de que los modelos matem√°ticos fueron introducidos es porque cuando se trabaja con materiales f√≠sicos
 
 00:26:17.75,00:26:23.49
 especialmente en escalas grandes, hacer prototipos y probarlos es muy costoso
 
 00:26:24.49,00:26:32.62
-asi que en vez, podemos usar las matem·ticas para probar modelos (en el sentido matem·tico)
+as√≠ que en vez, podemos usar las matem√°ticas para probar modelos (en el sentido matem√°tico)
 
 00:26:32.62,00:26:38.95
 y ahorrarnos el esfuerzo en costos y tiempo de tener que construir la obra
 
 00:26:39.86,00:26:49.66
-e incluso cuando tenemos modelos, tanto las fallas como el construir de m·s suceden
+e incluso cuando tenemos modelos, tanto las fallas como el construir de m√°s suceden
 
 00:26:49.66,00:26:52.93
-un buen ejemplo es por aquÌ cerca en Ember
+un buen ejemplo es por aqu√≠ cerca en Ember
 
 00:26:54.03,00:27:03.89
-en 1879 el puente Tay, no muy lejos de aquÌ, colapsÛ en un famoso desastre
+en 1879 el puente Tay, no muy lejos de aqu√≠, colaps√≥ en un famoso desastre
 
 00:27:03.89,00:27:10.37
-en donde la porciÛn elevada que se ve en la imagen, colapsÛ en medio de una tormenta cuando cruzaba un tren
+en donde la porci√≥n elevada que se ve en la imagen, colaps√≥ en medio de una tormenta cuando cruzaba un tren
 
 00:27:10.37,00:27:13.91
-y costÛ 75 vidas
+y cost√≥ 75 vidas
 
 00:27:15.86,00:27:20.75
-para cuando el desastre sucediÛ, habÌa otro puente en la etapa de planificaciÛn
+para cuando el desastre sucedi√≥, hab√≠a otro puente en la etapa de planificaci√≥n
 
 00:27:20.75,00:27:22.48
-sobre el rÌo Firth of Forth
+sobre el r√≠o Firth of Forth
 
 00:27:22.48,00:27:29.07
-y como una reacciÛn al desastre del puente Tay
+y como una reacci√≥n al desastre del puente Tay
 
 00:27:29.07,00:27:35.98
-el diseÒo del puente Forth fue modificado para ser m·s seguro, pero m·s importante
+el dise√±o del puente Forth fue modificado para ser m√°s seguro, pero m√°s importante
 
 00:27:35.98,00:27:38.70
-para verse m·s seguro.
+para verse m√°s seguro.
 
 00:27:41.62,00:27:53.30
-El puente Forth fue el primer gran puente en mÈnsula de metal construido
+El puente Forth fue el primer gran puente en m√©nsula de metal construido
 
 00:27:53.30,00:28:00.54
-El diseÒo es simple, radicalmente distinto al puente Tay
+El dise√±o es simple, radicalmente distinto al puente Tay
 
 00:28:01.42,00:28:04.61
 y realmente por encima de lo necesario
 
 00:28:05.72,00:28:10.34
-tanto por propÛsitos ingenieriles, como tambiÈn por propÛsitos de im·gen
+tanto por prop√≥sitos ingenieriles, como tambi√©n por prop√≥sitos de im√°gen
 
 00:28:10.34,00:28:12.34
 no digo que sea malo
 
 00:28:12.34,00:28:16.81
-creo que fue exactamente lo que habÌa que hacer, me encanta este puente y creo que es muy bonito
+creo que fue exactamente lo que hab√≠a que hacer, me encanta este puente y creo que es muy bonito
 
 00:28:18.19,00:28:26.02
-pero esto comenzÛ un proceso que durÛ aproximadamente 30 aÒos de tratar de enteder
+pero esto comenz√≥ un proceso que dur√≥ aproximadamente 30 a√±os de tratar de enteder
 
 00:28:26.02,00:28:32.93
-la est·tica y la teorÌa fÌsica detr·s de puentes en mÈnsula de acero como este
+la est√°tica y la teor√≠a f√≠sica detr√°s de puentes en m√©nsula de acero como este
 
 00:28:32.93,00:28:36.95
-y poder construir modelos matem·ticos m·s precisos
+y poder construir modelos matem√°ticos m√°s precisos
 
 00:28:36.95,00:28:43.87
-øpor quÈ la presiciÛn era importante? Porque reduce la necesdad de ir por encima de lo necesario.
+¬øpor qu√© la precisi√≥n era importante? Porque reduce la necesidad de ir por encima de lo necesario.
 
 00:28:43.87,00:28:50.10
-y asi reducir los materiales a usar y los costos en general de la construcciÛn
+y as√≠ reducir los materiales a usar y los costos en general de la construcci√≥n
 
 00:28:51.52,00:28:56.25
-este es el puente Forth desde otro angulo ...
+este es el puente Forth desde otro √°ngulo ...
 
 00:28:56.25,00:29:04.37
-este proceso de 30 aÒos, resultÛ en puentes m·s delgados, livianos y m·s adecuados a lo necesario
+este proceso de 30 a√±os, result√≥ en puentes m√°s delgados, livianos y m√°s adecuados a lo necesario
 
 00:29:04.37,00:29:07.83
 que fueron construidos al rededor del mundo durante este periodo, hasta que
@@ -977,139 +977,139 @@ que fueron construidos al rededor del mundo durante este periodo, hasta que
 el puente Quebec, que es bastante ligero
 
 00:29:12.68,00:29:15.80
-colapsÛ.
+colaps√≥.
 
 00:29:17.00,00:29:20.24
-tambiÈn con la pÈrdida de muchas vidas.
+tambi√©n con la p√©rdida de muchas vidas.
 
 00:29:20.24,00:29:24.13
 luego que el puente Quebec colapsara en 1907
 
 00:29:24.13,00:29:32.07
-los puentes en mÈnsula fueron vistos como inseguros, asi que comenzamos a construir puentes colgantes[br]y el ciclo se comenzÛ a repetir
+los puentes en m√©nsula fueron vistos como inseguros, as√≠ que comenzamos a construir puentes colgantes[br]y el ciclo se comenz√≥ a repetir
 
 00:29:32.07,00:29:38.62
 Grandes opulentos e inmensos puentes fueron construidos y gradualmente comenzaron a hacerse ligeros y livianos hasta que
 
 00:29:38.63,00:29:43.03
-por supuesto, el puente de Tacoma Narrows, terminÛ la era de los puentes colgantes
+por supuesto, el puente de Tacoma Narrows, termin√≥ la era de los puentes colgantes
 
 00:29:45.22,00:29:52.58
-En el caso del puente Tacoma Narrows la falla puede rastrearse dirÈctamente a un modelo matem·tico con errores.
+En el caso del puente Tacoma Narrows la falla puede rastrearse directamente a un modelo matem√°tico con errores.
 
 00:29:52.59,00:29:58.46
 que hasta el momento era mayoritariamente considerado el mejor modelo disponible para puentes colgantes
 
 00:30:01.85,00:30:09.83
-BusquÈ definiciones de ingenierÌa previas a la ingenierÌa de sofware y esta me gusta por un motivo
+Busqu√© definiciones de ingenier√≠a previas a la ingenier√≠a de software y esta me gusta por un motivo
 
 00:30:09.83,00:30:13.93
 esta del instituto de ingenieros civiles de 1828
 
 00:30:13.93,00:30:21.14
-"La ingenierÌa es el arte de dirigir grandes cursos de poder para el uso y conveniencia del hombre"
+"La ingenier√≠a es el arte de dirigir grandes cursos de poder para el uso y conveniencia del hombre"
 
 00:30:21.14,00:30:24.36
 me gusta, pero me parece un poco colonial
 
 00:30:25.56,00:30:29.86
-una m·s reciente de la asociaciÛn de ingenieros estructurales es:
+una m√°s reciente de la asociaci√≥n de ingenieros estructurales es:
 
 00:30:29.86,00:30:34.60
-"La ingenierÌa estructural es la ciencia y arte de diseÒar y construir, con economÌa y elegancia
+"La ingenier√≠a estructural es la ciencia y arte de dise√±ar y construir, con econom√≠a y elegancia
 
 00:30:34.61,00:30:39.64
 estructuras, para que puedan resistir de manera segura las fuerzas a las cuales puedan ser sujetas"
 
 00:30:39.64,00:30:43.49
-Me gustarÌa que examinaramos las tensiones de esta definiciÛn:
+Me gustar√≠a que examin√°ramos las tensiones de esta definici√≥n:
 
 00:30:43.49,00:30:47.90
-La ingenierÌa es una ciencia y un arte
+La ingenier√≠a es una ciencia y un arte
 
 00:30:49.72,00:31:01.36
-involucra creatividad, caminos sin salida, exploraciÛn, descubrimiento; de la misma forma que involucra aplicar los[br]descubrimientos de la ciencia.
+involucra creatividad, caminos sin salida, exploraci√≥n, descubrimiento; de la misma forma que involucra aplicar los[br]descubrimientos de la ciencia.
 
 00:31:02.42,00:31:05.54
-involucra diseÒar y construir
+involucra dise√±ar y construir
 
 00:31:05.54,00:31:11.56
-los ingenieros no solo construllen documentos y los entregan a otra gente para que construlla
+los ingenieros no solo construyen documentos y los entregan a otra gente para que construlla
 
 00:31:11.56,00:31:17.97
-se involucran en la construcciÛn de las cosas que diseÒan y en las instalaciones de fabricaciÛn
+se involucran en la construcci√≥n de las cosas que dise√±an y en las instalaciones de fabricaci√≥n
 
 00:31:17.97,00:31:26.00
 los buenos ingenieros estructurales tienen cascos en sus oficinas porque van a terreno y hablan con los constructores
 
 00:31:26.00,00:31:31.81
-y se enteran de los nuevos problemas que se encuentran durante la construcciÛn
+y se enteran de los nuevos problemas que se encuentran durante la construcci√≥n
 
 00:31:33.00,00:31:35.76
-... con economÌa y elegancia
+... con econom√≠a y elegancia
 
 00:31:35.76,00:31:44.38
-el costo es siempre un gran tema en la ingenierÌa, nuestro trabajo no es solo construir algo
+el costo es siempre un gran tema en la ingenier√≠a, nuestro trabajo no es solo construir algo
 
 00:31:44.38,00:31:53.55
-sino que hacerlo en la forma m·s econÛmica posible balanceando economÌa, elegancia y robustez
+sino que hacerlo en la forma m√°s econ√≥mica posible balanceando econom√≠a, elegancia y robustez
 
 00:31:54.55,00:31:58.23
-otra cosa que podemos encontar mirando a diciplinas reales de la ingenierÌa
+otra cosa que podemos encontrar mirando a disciplinas reales de la ingenier√≠a
 
 00:31:58.23,00:32:01.61
-es que diciplinas distintas, son muy distintas
+es que disciplinas distintas, son muy distintas
 
 00:32:01.62,00:32:08.99
-cuando se mira a la ingenierÌa estructural o la ingenierÌa elÈctrica, mec·nica, industrial o quÌmica
+cuando se mira a la ingenier√≠a estructural o la ingenier√≠a el√©ctrica, mec√°nica, industrial o qu√≠mica
 
 00:32:08.99,00:32:16.33
-se observa que utilizan distintos materiales, emprean distintos efectos fÌsicos y trabajan con fuerzas distintas
+se observa que utilizan distintos materiales, emplean distintos efectos f√≠sicos y trabajan con fuerzas distintas
 
 00:32:17.46,00:32:25.29
-trabajan con distintos grados de complejidad en relaciÛn a los requerimientos, los diseÒos, los procesos que utilizan
+trabajan con distintos grados de complejidad en relaci√≥n a los requerimientos, los dise√±os, los procesos que utilizan
 
 00:32:25.29,00:32:27.77
 y los artefactos que son el producto final
 
 00:32:28.59,00:32:33.81
-diferentes diciplinas de la ingenierÌa tienen distintos grados de depender en modelos formales
+diferentes disciplinas de la ingenier√≠a tienen distintos grados de depender en modelos formales
 
 00:32:34.75,00:32:38.64
-y si no, dependen de experimentaciÛn, prototipado y pruebas
+y si no, dependen de experimentaci√≥n, prototipado y pruebas
 
 00:32:41.79,00:32:45.80
-los ingenieros estructurales no construllen muchos modelos fÌsicos de puentes
+los ingenieros estructurales no construyen muchos modelos f√≠sicos de puentes
 
 00:32:46.50,00:32:52.12
-pero los ingenieros elÈctricos construllen muchos prototipos en placas de ensayo
+pero los ingenieros el√©ctricos construyen muchos prototipos en placas de ensayo
 
 00:32:52.12,00:32:57.42
-preguntenle a su colega ingeniero aeron·utico cu·nta matem·tica utilizarÌan
+preg√∫ntenle a su colega ingeniero aeron√°utico cu√°nta matem√°tica utilizar√≠an
 
 00:32:57.42,00:33:03.22
-si construir y probar modelos fisicos reales de sus diseÒos fuera instant·neo y gratis
+si construir y probar modelos f√≠sicos reales de sus dise√±os fuera instant√°neo y gratis
 
 00:33:04.53,00:33:09.58
-La respuesta no va a ser "Nada", pero serÌa mucho menos de lo que hacen ahora.
+La respuesta no va a ser "Nada", pero ser√≠a mucho menos de lo que hacen ahora.
 
 00:33:10.50,00:33:16.99
-finalmente, tienen distintos grados de procesos empÌricos o definidos
+finalmente, tienen distintos grados de procesos emp√≠ricos o definidos
 
 00:33:16.99,00:33:21.33
-asi que si entendemos lo que la ingenierÌa realmente es y tratamos de aplicarlo a lo que nosotros
+as√≠ que si entendemos lo que la ingenier√≠a realmente es y tratamos de aplicarlo a lo que nosotros
 
 00:33:21.33,00:33:27.35
-como profesionales de software sabemos sobre el campo de desarrollo de software... øCon que terminarÌamos?
+como profesionales de software sabemos sobre el campo de desarrollo de software... ¬øCon que terminar√≠amos?
 
 00:33:27.35,00:33:32.85
-Bueno, antes que todo tomarÈ la definiciÛn de ingenierÌa de la asociaciÛn de ingenieros estructurales
+Bueno, antes que todo tomar√© la definici√≥n de ingenier√≠a de la asociaci√≥n de ingenieros estructurales
 
 00:33:32.85,00:33:39.26
-y la modificarÈ un poco para hacer mi propia visiÛn de la ingenierÌa de software
+y la modificar√© un poco para hacer mi propia visi√≥n de la ingenier√≠a de software
 
 00:33:39.26,00:33:49.79
-"Es la ciencia y el arte de diseÒar y hacer con economÌa y elegancia, sistemas para que puedan r·pidamente adaptase a las situaciones que se puedan presentar"
+"Es la ciencia y el arte de dise√±ar y hacer con econom√≠a y elegancia, sistemas para que puedan r√°pidamente adaptase a las situaciones que se puedan presentar"
 
 00:33:49.79,00:33:57.48
 Esto incorpora la idea de que uno de los grandes beneficios del software es que es "soft" (maleable)
@@ -1118,19 +1118,19 @@ Esto incorpora la idea de que uno de los grandes beneficios del software es que 
 El objetivo no es resistir fuerzas, el objetivo es adaptarse al cambio
 
 00:34:02.73,00:34:09.88
-aparte de eso, creo que la definiciÛn de los ingenieros estructurales es bien buena.
+aparte de eso, creo que la definici√≥n de los ingenieros estructurales es bien buena.
 
 00:34:09.88,00:34:18.13
-sabemos que la ingenierÌa de software se espera sea muy distinta de las otras diciplinas, asÌ que no debieramos
+sabemos que la ingenier√≠a de software se espera sea muy distinta de las otras disciplinas, as√≠ que no debi√©ramos
 
 00:34:18.14,00:34:26.26
-terminar con una copia de la ingenierÌa estructural, o una caricatura de alguna otra diciplina que comprendamos o creemos que comprendemos.
+terminar con una copia de la ingenier√≠a estructural, o una caricatura de alguna otra disciplina que comprendamos o creemos que comprendemos.
 
 00:34:27.94,00:34:40.56
-La ingenierÌa de software fue basada en una analogÌa sobre diciplinas de la ingenierÌa de lo fÌsico
+La ingenier√≠a de software fue basada en una analog√≠a sobre disciplinas de la ingenier√≠a de lo f√≠sico
 
 00:34:40.75,00:34:42.86
-y esta analogÌa es algo asÌ:
+y esta analog√≠a es algo as√≠:
 
 00:34:42.86,00:34:45.67
 tienes ingenieros
@@ -1139,19 +1139,19 @@ tienes ingenieros
 se sientan con sus camisas blancas y corbatas
 
 00:34:49.02,00:34:51.69
-y producen diseÒos
+y producen dise√±os
 
 00:34:51.69,00:34:55.89
-y estos diseÒos son luego entregados a trabajadores
+y estos dise√±os son luego entregados a trabajadores
 
 00:34:55.89,00:35:00.62
-quienes usan el diseÒo para construir el producto final
+quienes usan el dise√±o para construir el producto final
 
 00:35:02.38,00:35:06.96
-por analogÌa, si queremos ver el mundo del desarrollo de software
+por analog√≠a, si queremos ver el mundo del desarrollo de software
 
 00:35:06.97,00:35:15.53
-y queremos aprender de las diciplinas de ingenierÌa existentes debieramos hacer el software asÌ:
+y queremos aprender de las disciplinas de ingenier√≠a existentes debi√©ramos hacer el software as√≠:
 
 00:35:15.54,00:35:18.02
 tenemos ingenieros de software
@@ -1160,181 +1160,181 @@ tenemos ingenieros de software
 el mismo tipo, pero ahora re capacitado
 
 00:35:20.14,00:35:23.68
-que produce un diseÒo
+que produce un dise√±o
 
 00:35:23.68,00:35:27.62
-que luego es entregado a trabajadores en sus cubÌculos
+que luego es entregado a trabajadores en sus cub√≠culos
 
 00:35:28.73,00:35:32.56
 que producen el producto final
 
 00:35:34.74,00:35:40.88
-y luego que lo hemos colocado de esta forma, es dificil mirar a cualquier discusiÛn sobre ingenierÌa de software
+y luego que lo hemos colocado de esta forma, es dif√≠cil mirar a cualquier discusi√≥n sobre ingenier√≠a de software
 
 00:35:40.89,00:35:45.22
 entre 1969 y a mediados de los 90
 
 00:35:45.22,00:35:51.93
-sin ver esta analogÌa brillando fuerte y claro en cada una de las asunciones que se hacen
+sin ver esta analog√≠a brillando fuerte y claro en cada una de las asunciones que se hacen
 
 00:35:51.93,00:35:59.96
 pero en 1992 creo, un caballero llamado Jack Reeves
 
 00:35:59.96,00:36:04.66
-se dio cuenta que esta analogÌa esta completamente equivocada
+se dio cuenta que esta analog√≠a esta completamente equivocada
 
 00:36:04.66,00:36:09.67
-y escribiÛ un paper llamado "øQuÈ es DiseÒo de Software?" y lo publicÛ en el reporte C++
+y escribi√≥ un paper llamado "¬øQu√© es Dise√±o de Software?" y lo public√≥ en el reporte C++
 
 00:36:09.67,00:36:14.26
 que es el motivo por el cual muchos de ustedes, aunque debieran, no han escuchado de el
 
 00:36:15.41,00:36:20.70
-dijo: esta analogÌa est· completamente equivocada, porque faltan cosas fundamentales sobre el desarrollo de software
+dijo: esta analog√≠a est√° completamente equivocada, porque faltan cosas fundamentales sobre el desarrollo de software
 
 00:36:20.70,00:36:25.71
-esto es lo que harÌas si no supieras nada sobre desarrollo de software
+esto es lo que har√≠as si no supieras nada sobre desarrollo de software
 
 00:36:25.71,00:36:30.22
-pero si eres un programador, sabes como las cosas funcionan y sabes que est· equivocado
+pero si eres un programador, sabes como las cosas funcionan y sabes que est√° equivocado
 
 00:36:30.23,00:36:37.14
-y el primer problema es que nunca hemos podido lograr una forma de expresar un diseÒo de software
+y el primer problema es que nunca hemos podido lograr una forma de expresar un dise√±o de software
 
 00:36:37.96,00:36:46.42
-que forma econÛmica y fiable los programadores puedan llegar y convertir en un programa funcional
+que forma econ√≥mica y fiable los programadores puedan llegar y convertir en un programa funcional
 
 00:36:46.42,00:36:54.82
-y alomejor esta es parte del problema, debieramos cambiar nuestra persepciÛn de lo que es el diseÒo de software
+y a lo mejor esta es parte del problema, debi√©ramos cambiar nuestra percepci√≥n de lo que es el dise√±o de software
 
 00:36:55.82,00:37:11.39
-y esto que est· aquÌ, este cÛdigo fuente, no es el producto final, no es lo que el cliente nos paga por hacer
+y esto que est√° aqu√≠, este c√≥digo fuente, no es el producto final, no es lo que el cliente nos paga por hacer
 
 00:37:12.10,00:37:21.42
-los clientes nos pagan para producir programas funcionales instalado en las m·quinas, no archivos de texto en alguna carpeta
+los clientes nos pagan para producir programas funcionales instalado en las m√°quinas, no archivos de texto en alguna carpeta
 
 00:37:21.42,00:37:27.37
-de hecho este cÛdigo fuente es el diseÒo de nuestro software
+de hecho este c√≥digo fuente es el dise√±o de nuestro software
 
 00:37:28.04,00:37:40.24
-alomejor no es todo el diseÒo, aun ayuda tener diagramas para la vista general del diseÒo, pero el detalle, las minucias de como funciona, es el cÛdigo fuente
+a lo mejor no es todo el dise√±o, aun ayuda tener diagramas para la vista general del dise√±o, pero el detalle, las minucias de como funciona, es el c√≥digo fuente
 
 00:37:40.24,00:37:45.40
-asi que, øQuienes serÌan los trabajadores? øa quien le corresponderÌa esta tarea?
+as√≠ que, ¬øQuienes ser√≠an los trabajadores? ¬øa quien le corresponder√≠a esta tarea?
 
 00:37:45.40,00:37:49.33
 A los compiladores y a las implementaciones de lenguajes y a los frameworks de alto nivel
 
 00:37:49.33,00:37:57.79
-y el producto final es una soluciÛn funcional ejecutables en m·quinas que usuarios pueden usar
+y el producto final es una soluci√≥n funcional ejecutables en m√°quinas que usuarios pueden usar
 
 00:37:58.88,00:38:02.97
-una vez que ves esto, °todo cambia!
+una vez que ves esto, ¬°todo cambia!
 
 00:38:03.66,00:38:07.26
-øCu·l es la parte m·s costosa de la parte superior?
+¬øCu√°l es la parte m√°s costosa de la parte superior?
 
 00:38:08.96,00:38:11.64
-La construcciÛn.
+La construcci√≥n.
 
 00:38:11.64,00:38:14.98
-øCu·l es la parte m·s econÛmica de la fila inferior?
+¬øCu√°l es la parte m√°s econ√≥mica de la fila inferior?
 
 00:38:14.98,00:38:15.98
-La construcciÛn.
+La construcci√≥n.
 
 00:38:18.85,00:38:31.83
-y esta economÌa invertida cambia todo sobre lo que debemos hacer y si algo quiere llamarse "IngenierÌa de software" debe tomar en consideraciÛn
+y esta econom√≠a invertida cambia todo sobre lo que debemos hacer y si algo quiere llamarse "Ingenier√≠a de software" debe tomar en consideraci√≥n
 
 00:38:31.83,00:38:39.96
-este hecho fundamental, que para nosotros, construir un prototipo de nuestro diseÒo es efectivamente instant·neo y gratuito.
+este hecho fundamental, que para nosotros, construir un prototipo de nuestro dise√±o es efectivamente instant√°neo y gratuito.
 
 00:38:41.46,00:38:54.11
-y a˙n m·s, cuando Reeves escribiÛ su paper, probar el prototipo era costoso (aunque nunca tanto como probar un puente)
+y a√∫n m√°s, cuando Reeves escribi√≥ su paper, probar el prototipo era costoso (aunque nunca tanto como probar un puente)
 
 00:38:54.11,00:39:03.72
-pero desde esa epoca hemos aprendido un montÛn sobre reducir el costo de pruebas repetitivas de los diseÒos. øO no?
+pero desde esa √©poca hemos aprendido un mont√≥n sobre reducir el costo de pruebas repetitivas de los dise√±os. ¬øO no?
 
 00:39:03.72,00:39:18.92
-asÌ que por mucho, la parte m·s costosa de NUESTRO campo es el diseÒo. Es tanto asÌ que eclipsa a todo lo dem·s y lo hace ver insignificante.
+as√≠ que por mucho, la parte m√°s costosa de NUESTRO campo es el dise√±o. Es tanto as√≠ que eclipsa a todo lo dem√°s y lo hace ver insignificante.
 
 00:39:21.43,00:39:31.06
-Otra cosa que me gustarÌa decir, aunque somos constantemente criticados por no tener rigor matem·tico en nuestro campo
+Otra cosa que me gustar√≠a decir, aunque somos constantemente criticados por no tener rigor matem√°tico en nuestro campo
 
 00:39:33.02,00:39:37.13
-Ese cÛdigo fuente es matem·tica.
+Ese c√≥digo fuente es matem√°tica.
 
 00:39:37.44,00:39:47.68
-Incluso si nuestros lenguajes de programaciÛn no tienen una notaciÛn  rigurosa o algun otro mecanismo formal (y eso es Ruby a si que ciertamente no)
+Incluso si nuestros lenguajes de programaci√≥n no tienen una notaci√≥n  rigurosa o alg√∫n otro mecanismo formal (y eso es Ruby a si que ciertamente no)
 
 00:39:48.72,00:39:53.25
-es un lenguaje formal, con sem·nticas rÌgidas
+es un lenguaje formal, con sem√°nticas r√≠gidas
 
 00:39:54.66,00:40:02.74
-usamos matem·tica todos los dÌas, nuestra matem·tica trabaja para nosotros, nuestra matem·tica es ejecutable.
+usamos matem√°tica todos los d√≠as, nuestra matem√°tica trabaja para nosotros, nuestra matem√°tica es ejecutable.
 
 00:40:03.09,00:40:09.31
 Y esto fue entendido hace tiempo, tanto como la conferencia NATO de 1968
 
 00:40:09.31,00:40:18.00
-en la conferencia Friedrich Bauer dijo: "lo necesario no es matem·tica clasica, solo matem·tica"
+en la conferencia Friedrich Bauer dijo: "lo necesario no es matem√°tica cl√°sica, solo matem√°tica"
 
 00:40:18.00,00:40:24.71
-y Edsger Dijkstra, que era un fuerte proponente de usar pruebas matem·ticas formales para el software
+y Edsger Dijkstra, que era un fuerte proponente de usar pruebas matem√°ticas formales para el software
 
 00:40:25.67,00:40:32.08
-aun iniciÛ su discurso diciendo: "Nuestras heramientas b·sicas son escencialmente matem·ticas"
+aun inici√≥ su discurso diciendo: "Nuestras herramientas b√°sicas son esencialmente matem√°ticas"
 
 00:40:34.69,00:40:35.86
-una cosa m·s
+una cosa m√°s
 
 00:40:37.34,00:40:45.15
-En la im·gen anterior, øDÛnde est· el modelo?
+En la imagen anterior, ¬øD√≥nde est√° el modelo?
 
 00:40:54.59,00:40:57.32
-øDÛnde est· el modelo?, øDÛnde est· nuestro modelo?
+¬øD√≥nde est√° el modelo?, ¬øD√≥nde est√° nuestro modelo?
 
 00:41:04.81,00:41:09.94
-Est· parcialmente en nuestras mentes, si, pero lo mismo es cierto de otras diciplinas
+Est√° parcialmente en nuestras mentes, si, pero lo mismo es cierto de otras diciplinas
 
 00:41:11.09,00:41:15.50
-La expresiÛn del modelo tambiÈn est· en el cÛdigo fuente.
+La expresi√≥n del modelo tambi√©n est√° en el c√≥digo fuente.
 
 00:41:17.95,00:41:30.92
-Y que tan f·cil el modelo se puede ver en el cÛdigo fuente, es una de las mÈtricas con las que se puede medir el diseÒo en sÌ
+Y que tan f√°cil el modelo se puede ver en el c√≥digo fuente, es una de las m√©tricas con las que se puede medir el dise√±o en s√≠
 
 00:41:32.69,00:41:35.16
-øDÛnde est·n nuestros documentos?
+¬øD√≥nde est√°n nuestros documentos?
 
 00:41:35.65,00:41:41.41
-Los ingenieros usan modelos, matem·tica y documentos. øDÛnde est· nuestro documento?
+Los ingenieros usan modelos, matem√°tica y documentos. ¬øD√≥nde est√° nuestro documento?
 
 00:41:41.41,00:41:43.04
-En el cÛdigo fuente.
+En el c√≥digo fuente.
 
 00:41:44.54,00:41:51.14
-mensionÈ con anterioridad que Parnas dijo que los ingenieros diseÒan mediante documentos.
+mencion√© con anterioridad que Parnas dijo que los ingenieros dise√±an mediante documentos.
 
 00:41:51.14,00:42:01.61
-y ha propuesto una notaciÛn matem·tica para los documentos llamada "expresiones matem·ticas tabulares" para expresar requerimientos y diseÒos
+y ha propuesto una notaci√≥n matem√°tica para los documentos llamada "expresiones matem√°ticas tabulares" para expresar requerimientos y dise√±os
 
 00:42:01.61,00:42:11.83
-y serÌa injusto mostrarles el siguiente ejemplo sin decirles que es un ejemplo groceramente simplificado de una expresiÛn matem·tica tabular
+y ser√≠a injusto mostrarles el siguiente ejemplo sin decirles que es un ejemplo groseramente simplificado de una expresi√≥n matem√°tica tabular
 
 00:42:11.83,00:42:20.91
-pero sin embargo, transmite la idea,esto es un ejemplo muy simplificado de lo que serÌa una expresiÛn matem·tica tabular de Parnes
+pero sin embargo, transmite la idea,esto es un ejemplo muy simplificado de lo que ser√≠a una expresi√≥n matem√°tica tabular de Parnes
 
 00:42:20.92,00:42:23.83
 porque el piensa que necesitamos tener documentos
 
 00:42:30.16,00:42:38.92
-Les mostrarÈ otros documentos, que expresan el mismo requerimiento de otra forma:
+Les mostrar√© otros documentos, que expresan el mismo requerimiento de otra forma:
 
 00:42:38.92,00:42:40.24
 este es uno
 
 00:42:50.53,00:42:50.56
-aquÌ hay otro
+aqu√≠ hay otro
 
 00:42:53.39,00:42:54.57
 y otro
@@ -1343,13 +1343,13 @@ y otro
 y otro
 
 00:42:58.55,00:43:01.19
-que extraÒamente empieza a verse como el original de Parnes
+que extra√±amente empieza a verse como el original de Parnes
 
 00:43:01.19,00:43:09.64
-tenemos una prueba unitaria, una especificaciÛn de RSpec, un escenario de Cucumber y un arreglo de Fitnes
+tenemos una prueba unitaria, una especificaci√≥n de RSpec, un escenario de Cucumber y un arreglo de Fitnes
 
 00:43:11.46,00:43:16.19
-øQuÈ es distinto de estos documentos y los de Parnes?
+¬øQu√© es distinto de estos documentos y los de Parnes?
 
 00:43:18.69,00:43:20.02
 Estos son ejecutables.
@@ -1361,106 +1361,106 @@ Pueden ejecutarse y verificarse
 Son documentos, pero no son SOLO documentos
 
 00:43:31.69,00:43:37.27
-Si ejecutas cada uno, encontrar·s que hay un error.
+Si ejecutas cada uno, encontrar√°s que hay un error.
 
 00:43:51.25,00:43:58.13
-Finalmente, procesos empÌricos versus procesos definidos
+Finalmente, procesos emp√≠ricos versus procesos definidos
 
 00:43:58.14,00:44:04.57
-Este es un diagrama de las 12 o 13 pr·cticas originales que describiÛ Extreme Programming
+Este es un diagrama de las 12 o 13 pr√°cticas originales que describi√≥ Extreme Programming
 
 00:44:04.57,00:44:12.98
 y las dependencias entre ellas que Kent Beck documenta en su libro "Extreme Programming Explained"
 
 00:44:12.98,00:44:26.27
-y hay un capÌtulo entero en su libro que dice "Unit testing no puede funcionar porque X, Y, Z; tiene defectos"
+y hay un cap√≠tulo entero en su libro que dice "Unit testing no puede funcionar porque X, Y, Z; tiene defectos"
 
 00:44:26.27,00:44:34.36
-y serÌa cierto exepto  que estas otras pr·cticas: IntegraciÛn Continua, Pertenencia colectiva, semanas de 40 horas, trabajo en pares, refactoring, etc
+y ser√≠a cierto excepto  que estas otras pr√°cticas: Integraci√≥n Continua, Pertenencia colectiva, semanas de 40 horas, trabajo en pares, refactoring, etc
 
 00:44:34.36,00:44:39.60
-apoyan y soportan esto, retribullen por sus defectos como redundancia en el proceso
+apoyan y soportan esto, retribuyen por sus defectos como redundancia en el proceso
 
 00:44:39.60,00:44:49.36
-y yo miro el diagrama e inspirado por un comentario de Dave Thomas, miro el diagrama y digo "Si hubiera hecho un diseÒo de software tan acoplado"
+y yo miro el diagrama e inspirado por un comentario de Dave Thomas, miro el diagrama y digo "Si hubiera hecho un dise√±o de software tan acoplado"
 
 00:44:49.36,00:44:50.61
-me despedirÌan
+me despedir√≠an
 
 00:44:51.46,00:44:58.94
-osea, hay verdad en esto, pero buscaba una estructura m·s profunda.
+osea, hay verdad en esto, pero buscaba una estructura m√°s profunda.
 
 00:44:59.97,00:45:06.53
 resulta que muchas de estas dependencias pueden entenderse en esta forma
 
 00:45:06.66,00:45:12.19
-puedes colocar la mayorÌa de estas pr·cticas (las otras son solo est·ndares)
+puedes colocar la mayor√≠a de estas pr√°cticas (las otras son solo est√°ndares)
 
 00:45:12.19,00:45:22.91
-la que son realmente pr·cticas, las puedes alinear de acuerdo a la escala del contexto, de la desiciÛn sobre la que act˙an
+la que son realmente pr√°cticas, las puedes alinear de acuerdo a la escala del contexto, de la decisi√≥n sobre la que act√∫an
 
 00:45:22.91,00:45:28.78
-cuando realizas programaciÛn en pares est·s principalmente actuando sobre mÈtodos e instrucciones
+cuando realizas programaci√≥n en pares est√°s principalmente actuando sobre m√©todos e instrucciones
 
 00:45:28.78,00:45:32.98
-y las pruebas unitarias act˙an principalmente sobre metodos, clases e interfaces
+y las pruebas unitarias act√∫an principalmente sobre m√©todos, clases e interfaces
 
 00:45:32.98,00:45:41.45
-y asÌ se sube hasta "publicaciones frecuentes" para validar que produces la soluciÛn correcta al problema del cliente
+y as√≠ se sube hasta "publicaciones frecuentes" para validar que produces la soluci√≥n correcta al problema del cliente
 
 00:45:41.45,00:45:50.78
-Y, interesantemente, puedes asociar cada pr·ctica en una escala de tiempo sobre el cual actuan estas pr·cticas.
+Y, interesantemente, puedes asociar cada pr√°ctica en una escala de tiempo sobre el cual act√∫an estas pr√°cticas.
 
 00:45:50.79,00:45:59.45
-la programaciÛn por pares funciona al nivel de segundos y aveces minutos, pruebas unitarias actuan al nivel de minutos
+la programaci√≥n por pares funciona al nivel de segundos y aveces minutos, pruebas unitarias act√∫an al nivel de minutos
 
 00:46:01.25,00:46:07.59
-"Cliente in-suitu" act˙a en el nivel de las horas, ya que discutes con Èl detalles de los requerimientos y todo eso
+"Cliente in-situ" act√∫a en el nivel de las horas, ya que discutes con √©l detalles de los requerimientos y todo eso
 
 00:46:07.59,00:46:13.88
 llegando hasta arriba con "Publicaciones frecuentes" donde se toma semanas o meses en muchos casos
 
 00:46:15.52,00:46:21.57
-Esto es pr·cticamente la definiciÛn del un proceso empÌrico para desarrollo de software
+Esto es pr√°cticamente la definici√≥n del un proceso emp√≠rico para desarrollo de software
 
 00:46:22.02,00:46:35.19
-obtiene informaciÛn sobre cada desiciÛn que se hace en cada etapa en la forma m·s r·pida que es economicamente factible
+obtiene informaci√≥n sobre cada decisi√≥n que se hace en cada etapa en la forma m√°s r√°pida que es econ√≥micamente factible
 
 00:46:35.65,00:46:43.53
-es costoso obtener informaciÛn sobre grandes desiciones, asÌ que no lo hacemos tan seguido, pero aun lo hacemos lo m·s r·pido posible
+es costoso obtener informaci√≥n sobre grandes decisiones, as√≠ que no lo hacemos tan seguido, pero aun lo hacemos lo m√°s r√°pido posible
 
 00:46:46.44,00:46:48.56
-pero es muy econÛmico obtener informaciÛn sobre pequeÒas desiciones asÌ que lo hacemos cada segundo
+pero es muy econ√≥mico obtener informaci√≥n sobre peque√±as decisiones as√≠ que lo hacemos cada segundo
 
 00:46:49.69,00:46:57.99
-Constantemente obteniendo informaciÛn y ajustandose tal como un proceso empÌrico debiera
+Constantemente obteniendo informaci√≥n y ajust√°ndose tal como un proceso emp√≠rico debiera
 
 00:46:59.09,00:47:06.12
-El desarrollo de software ·gil ha sido acusado de ser ad-hoc, descuidado y desordenado,
+El desarrollo de software √°gil ha sido acusado de ser ad-hoc, descuidado y desordenado,
 
 00:47:06.12,00:47:14.44
-pero de hecho, yo creo que es una gran representaciÛn de lo que un proceso ingenieril para software debiera ser.
+pero de hecho, yo creo que es una gran representaci√≥n de lo que un proceso ingenieril para software debiera ser.
 
 00:47:14.44,00:47:29.96
 estoy un poco pasado de tiempo, pero quiero mostrarles lo que me imagino seremos cuando finalmente maduremos
 
 00:47:32.65,00:47:41.16
-No necesitaremos matem·tica, no necesitaremos modelos, no necesitaremos documentos.
+No necesitaremos matem√°tica, no necesitaremos modelos, no necesitaremos documentos.
 
 00:47:41.16,00:47:45.71
-y ciertamente no necesitaremos copiar otras diciplinas que no entendemos.
+y ciertamente no necesitaremos copiar otras disciplinas que no entendemos.
 
 00:47:47.00,00:47:52.54
 sino que aprenderemos de profesionales del campo sobre lo que funciona y no funciona
 
 00:47:53.87,00:48:01.13
-nos inclinaremos hacia un modelo empirico ya que eso es lo apropiado para un campo tan complejo donde hay tanto por conocer
+nos inclinaremos hacia un modelo emp√≠rico ya que eso es lo apropiado para un campo tan complejo donde hay tanto por conocer
 
 00:48:02.64,00:48:10.51
-Continuaremos promoviendo innovaciÛn en los procesos, no creo que XP o la Agilidad sea la ˙ltima palabra, creo que aun tenemos mucho que aprender
+Continuaremos promoviendo innovaci√≥n en los procesos, no creo que XP o la Agilidad sea la √∫ltima palabra, creo que aun tenemos mucho que aprender
 
 00:48:11.61,00:48:17.64
-y nos aseguraremos que solo aquello que funciona, sea llamado IngenierÌa.
+y nos aseguraremos que solo aquello que funciona, sea llamado Ingenier√≠a.
 
 00:48:17.64,00:48:20.43
 y dejaremos de usar ese termino para cosas que no funcionan
@@ -1469,5 +1469,5 @@ y dejaremos de usar ese termino para cosas que no funcionan
 Gracias
 
 00:48:23.62,00:48:29.22
-Subtitulos por David Lay M.
+Subt√≠tulos por David Lay M.
 
